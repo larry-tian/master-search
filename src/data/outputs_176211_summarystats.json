@@ -1,12 +1,10 @@
-[
-  {
-    "thisMonthMail": 10,
-    "thisMonthAds": 20,
-    "thisMonthGiftCount": 5,
-    "thisMonthTotalGiftAmount": 235,
-    "lastMonthMail": 8,
-    "lastMonthAds": 17,
-    "lastMonthGiftCount": 6,
-    "lastMonthTotalGiftAmount": 125
-  }
-]
+{
+  "openEmail": 8,
+  "emailSent": 20,
+  "giftAmount": 472,
+  "visitAmount": 127,
+  "transactionAmount": 5,
+  "avgInteractionBeforeTransaction": 12,
+  "adInteractionAmount": 12,
+  "adSent": 31
+}

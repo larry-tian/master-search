@@ -1,0 +1,6248 @@
+[
+  {
+    "cuid": 1628467681,
+    "first_name": "Giulia",
+    "last_name": "Soro",
+    "Total_gift": "$37154.72",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "8/23/2021"
+  },
+  {
+    "cuid": 3658167998,
+    "first_name": "Shawn",
+    "last_name": "Benda",
+    "Total_gift": "$1464.90",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 30,
+    "Last_Active_Date": "6/2/2020"
+  },
+  {
+    "cuid": 3803197996,
+    "first_name": "Quinlan",
+    "last_name": "Petras",
+    "Total_gift": "$63374.88",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "7/20/2020"
+  },
+  {
+    "cuid": 2930559993,
+    "first_name": "Bordie",
+    "last_name": "Sonschein",
+    "Total_gift": "$10295.63",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "4/10/2022"
+  },
+  {
+    "cuid": 2780263822,
+    "first_name": "Zondra",
+    "last_name": "Biasi",
+    "Total_gift": "$39392.32",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "6/28/2020"
+  },
+  {
+    "cuid": 4410785567,
+    "first_name": "Raimondo",
+    "last_name": "Dyment",
+    "Total_gift": "$3580.23",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "10/16/2021"
+  },
+  {
+    "cuid": 1035051591,
+    "first_name": "Shandy",
+    "last_name": "Corbitt",
+    "Total_gift": "$49297.47",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "10/31/2020"
+  },
+  {
+    "cuid": 9961267680,
+    "first_name": "Winonah",
+    "last_name": "Bhatia",
+    "Total_gift": "$22103.31",
+    "Ads_Viewed": 3,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "6/7/2020"
+  },
+  {
+    "cuid": 5839471879,
+    "first_name": "Whitney",
+    "last_name": "Spreadbury",
+    "Total_gift": "$81003.02",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "6/17/2020"
+  },
+  {
+    "cuid": "0334480825",
+    "first_name": "Sasha",
+    "last_name": "Ronald",
+    "Total_gift": "$278.50",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "1/14/2021"
+  },
+  {
+    "cuid": 1953659543,
+    "first_name": "Thatch",
+    "last_name": "Pheazey",
+    "Total_gift": "$85350.96",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "12/7/2020"
+  },
+  {
+    "cuid": 2831894301,
+    "first_name": "Curr",
+    "last_name": "Hagley",
+    "Total_gift": "$97628.12",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "2/14/2022"
+  },
+  {
+    "cuid": "0819296651",
+    "first_name": "Etheline",
+    "last_name": "Grogan",
+    "Total_gift": "$66381.09",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "11/19/2021"
+  },
+  {
+    "cuid": 1345921950,
+    "first_name": "Jemimah",
+    "last_name": "Petasch",
+    "Total_gift": "$15521.00",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "12/20/2020"
+  },
+  {
+    "cuid": 3209594732,
+    "first_name": "Sheela",
+    "last_name": "Knapp",
+    "Total_gift": "$30834.21",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "7/12/2021"
+  },
+  {
+    "cuid": 2901822916,
+    "first_name": "Aluin",
+    "last_name": "Moogan",
+    "Total_gift": "$9126.50",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "5/5/2021"
+  },
+  {
+    "cuid": 3305212632,
+    "first_name": "Alvis",
+    "last_name": "Karel",
+    "Total_gift": "$80561.29",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "2/12/2021"
+  },
+  {
+    "cuid": 2641478897,
+    "first_name": "Reese",
+    "last_name": "Riches",
+    "Total_gift": "$81190.95",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "3/6/2021"
+  },
+  {
+    "cuid": 5093653241,
+    "first_name": "Felicia",
+    "last_name": "Ligerton",
+    "Total_gift": "$20213.09",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "2/28/2021"
+  },
+  {
+    "cuid": 9734350579,
+    "first_name": "Hillie",
+    "last_name": "Elphick",
+    "Total_gift": "$37553.91",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "12/26/2020"
+  },
+  {
+    "cuid": 7074395617,
+    "first_name": "Farah",
+    "last_name": "Samsonsen",
+    "Total_gift": "$36438.06",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "12/13/2020"
+  },
+  {
+    "cuid": 5117501802,
+    "first_name": "Heidie",
+    "last_name": "Mattiuzzi",
+    "Total_gift": "$47620.62",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "8/31/2021"
+  },
+  {
+    "cuid": 4688178689,
+    "first_name": "Edouard",
+    "last_name": "McLise",
+    "Total_gift": "$28430.69",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "11/28/2021"
+  },
+  {
+    "cuid": 8241955960,
+    "first_name": "Sawyer",
+    "last_name": "Rowat",
+    "Total_gift": "$55151.32",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "12/25/2021"
+  },
+  {
+    "cuid": "0421847328",
+    "first_name": "Britte",
+    "last_name": "Billin",
+    "Total_gift": "$15180.09",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "11/7/2020"
+  },
+  {
+    "cuid": 4509485360,
+    "first_name": "Maude",
+    "last_name": "Ralston",
+    "Total_gift": "$55389.72",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "6/9/2021"
+  },
+  {
+    "cuid": "0158525329",
+    "first_name": "Rudie",
+    "last_name": "Szepe",
+    "Total_gift": "$81885.63",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "4/16/2021"
+  },
+  {
+    "cuid": 5494750930,
+    "first_name": "Tab",
+    "last_name": "Mountford",
+    "Total_gift": "$69044.31",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "4/18/2020"
+  },
+  {
+    "cuid": 5198634751,
+    "first_name": "Orelle",
+    "last_name": "Jekyll",
+    "Total_gift": "$32365.94",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "1/2/2022"
+  },
+  {
+    "cuid": 6756565990,
+    "first_name": "Kendrick",
+    "last_name": "de Guise",
+    "Total_gift": "$35743.35",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "9/27/2021"
+  },
+  {
+    "cuid": 3020020417,
+    "first_name": "Mona",
+    "last_name": "Beeson",
+    "Total_gift": "$30336.32",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "2/20/2021"
+  },
+  {
+    "cuid": 4658193248,
+    "first_name": "Karalee",
+    "last_name": "Starte",
+    "Total_gift": "$42722.05",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "5/7/2021"
+  },
+  {
+    "cuid": 9687423250,
+    "first_name": "Templeton",
+    "last_name": "Bradnum",
+    "Total_gift": "$61137.16",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "12/17/2021"
+  },
+  {
+    "cuid": 4428910789,
+    "first_name": "Hannah",
+    "last_name": "Sketcher",
+    "Total_gift": "$52522.33",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "6/19/2020"
+  },
+  {
+    "cuid": 6054656732,
+    "first_name": "Brett",
+    "last_name": "Basilone",
+    "Total_gift": "$98126.55",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "1/21/2021"
+  },
+  {
+    "cuid": 3961357153,
+    "first_name": "Amargo",
+    "last_name": "Westcar",
+    "Total_gift": "$39383.85",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "6/29/2020"
+  },
+  {
+    "cuid": 5017446370,
+    "first_name": "Vernen",
+    "last_name": "Duigan",
+    "Total_gift": "$29141.00",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "10/20/2020"
+  },
+  {
+    "cuid": 9014635788,
+    "first_name": "Margalit",
+    "last_name": "Streatley",
+    "Total_gift": "$39322.45",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "4/18/2020"
+  },
+  {
+    "cuid": 2885012137,
+    "first_name": "Dorree",
+    "last_name": "McConachie",
+    "Total_gift": "$16932.97",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "4/23/2020"
+  },
+  {
+    "cuid": 9286394268,
+    "first_name": "Selinda",
+    "last_name": "Pinshon",
+    "Total_gift": "$34912.24",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "6/7/2020"
+  },
+  {
+    "cuid": 2046310896,
+    "first_name": "Raddy",
+    "last_name": "Derisly",
+    "Total_gift": "$5736.68",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "3/26/2022"
+  },
+  {
+    "cuid": 7450820080,
+    "first_name": "Woodrow",
+    "last_name": "Gunderson",
+    "Total_gift": "$44990.63",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "9/30/2021"
+  },
+  {
+    "cuid": 9320696187,
+    "first_name": "Arley",
+    "last_name": "Bywaters",
+    "Total_gift": "$67349.32",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "6/6/2021"
+  },
+  {
+    "cuid": 4598886439,
+    "first_name": "Lindsay",
+    "last_name": "Whitmore",
+    "Total_gift": "$59682.65",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "2/4/2021"
+  },
+  {
+    "cuid": 7846374850,
+    "first_name": "Darin",
+    "last_name": "Ellerey",
+    "Total_gift": "$31140.27",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "12/7/2021"
+  },
+  {
+    "cuid": 8073663341,
+    "first_name": "Abbe",
+    "last_name": "Patman",
+    "Total_gift": "$14137.07",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "3/25/2021"
+  },
+  {
+    "cuid": 9640264474,
+    "first_name": "Demetris",
+    "last_name": "Mothersole",
+    "Total_gift": "$72682.08",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "4/6/2020"
+  },
+  {
+    "cuid": 6957040291,
+    "first_name": "Mufi",
+    "last_name": "Wincer",
+    "Total_gift": "$9072.27",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "1/3/2021"
+  },
+  {
+    "cuid": 5341107403,
+    "first_name": "Ganny",
+    "last_name": "Kondratovich",
+    "Total_gift": "$58976.18",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "10/18/2020"
+  },
+  {
+    "cuid": 9051791089,
+    "first_name": "Keary",
+    "last_name": "McAree",
+    "Total_gift": "$392.71",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "8/20/2020"
+  },
+  {
+    "cuid": 5051897088,
+    "first_name": "Brook",
+    "last_name": "Cantrill",
+    "Total_gift": "$62167.38",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "2/12/2022"
+  },
+  {
+    "cuid": 3578424773,
+    "first_name": "Juan",
+    "last_name": "Rowe",
+    "Total_gift": "$67297.93",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "11/30/2021"
+  },
+  {
+    "cuid": 7035641939,
+    "first_name": "Kim",
+    "last_name": "Seymour",
+    "Total_gift": "$85567.22",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "4/8/2020"
+  },
+  {
+    "cuid": 1241800502,
+    "first_name": "Zuzana",
+    "last_name": "Raleston",
+    "Total_gift": "$72718.32",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 30,
+    "Last_Active_Date": "10/20/2021"
+  },
+  {
+    "cuid": 9706284877,
+    "first_name": "Idaline",
+    "last_name": "Myhill",
+    "Total_gift": "$98556.49",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "4/2/2021"
+  },
+  {
+    "cuid": 9588450985,
+    "first_name": "Cayla",
+    "last_name": "Simeons",
+    "Total_gift": "$51605.08",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "3/1/2021"
+  },
+  {
+    "cuid": 9823347727,
+    "first_name": "Conrad",
+    "last_name": "Laird-Craig",
+    "Total_gift": "$54652.99",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "3/29/2021"
+  },
+  {
+    "cuid": 4851970439,
+    "first_name": "Osgood",
+    "last_name": "Lawee",
+    "Total_gift": "$83225.38",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "2/6/2022"
+  },
+  {
+    "cuid": 8502770063,
+    "first_name": "Renee",
+    "last_name": "Ashness",
+    "Total_gift": "$60175.95",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "2/16/2021"
+  },
+  {
+    "cuid": 9265435461,
+    "first_name": "Dennie",
+    "last_name": "Lane",
+    "Total_gift": "$1411.79",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "2/13/2021"
+  },
+  {
+    "cuid": 2123062669,
+    "first_name": "Ilario",
+    "last_name": "Burberry",
+    "Total_gift": "$50441.79",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "1/8/2022"
+  },
+  {
+    "cuid": 2984442520,
+    "first_name": "Rodney",
+    "last_name": "Onraet",
+    "Total_gift": "$25531.54",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "3/19/2021"
+  },
+  {
+    "cuid": "0097625752",
+    "first_name": "Phylys",
+    "last_name": "Engeham",
+    "Total_gift": "$35855.13",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "12/24/2021"
+  },
+  {
+    "cuid": 6227924539,
+    "first_name": "Nickie",
+    "last_name": "Dellenbroker",
+    "Total_gift": "$86340.75",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "1/27/2021"
+  },
+  {
+    "cuid": 3711663311,
+    "first_name": "Ginelle",
+    "last_name": "Abrahamoff",
+    "Total_gift": "$22395.35",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "10/10/2021"
+  },
+  {
+    "cuid": "0889825084",
+    "first_name": "Jaime",
+    "last_name": "Smooth",
+    "Total_gift": "$63379.53",
+    "Ads_Viewed": 25,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "9/18/2020"
+  },
+  {
+    "cuid": 8445935739,
+    "first_name": "Dorothy",
+    "last_name": "Lynock",
+    "Total_gift": "$96633.05",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "12/13/2020"
+  },
+  {
+    "cuid": 4689796122,
+    "first_name": "Nady",
+    "last_name": "Abry",
+    "Total_gift": "$98171.46",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "7/17/2021"
+  },
+  {
+    "cuid": 1741928818,
+    "first_name": "Pearla",
+    "last_name": "Guillou",
+    "Total_gift": "$87388.80",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "2/18/2021"
+  },
+  {
+    "cuid": 9247985676,
+    "first_name": "Peyton",
+    "last_name": "Kinlock",
+    "Total_gift": "$86853.53",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "4/20/2020"
+  },
+  {
+    "cuid": 1997408120,
+    "first_name": "Chryste",
+    "last_name": "Kennford",
+    "Total_gift": "$74472.03",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "7/21/2021"
+  },
+  {
+    "cuid": 4120329410,
+    "first_name": "Chantalle",
+    "last_name": "Orum",
+    "Total_gift": "$55330.13",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "3/13/2021"
+  },
+  {
+    "cuid": 8580246288,
+    "first_name": "Ede",
+    "last_name": "Lutton",
+    "Total_gift": "$77243.10",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "12/14/2021"
+  },
+  {
+    "cuid": 8890764775,
+    "first_name": "Paulie",
+    "last_name": "Boyda",
+    "Total_gift": "$25870.94",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "10/27/2020"
+  },
+  {
+    "cuid": 9749074882,
+    "first_name": "Joletta",
+    "last_name": "Hyndman",
+    "Total_gift": "$61168.15",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "12/10/2021"
+  },
+  {
+    "cuid": 3519419505,
+    "first_name": "Laughton",
+    "last_name": "Harteley",
+    "Total_gift": "$30661.12",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "6/30/2020"
+  },
+  {
+    "cuid": 3488649067,
+    "first_name": "Ceciley",
+    "last_name": "Belt",
+    "Total_gift": "$94085.52",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "10/25/2020"
+  },
+  {
+    "cuid": 6608717873,
+    "first_name": "Larina",
+    "last_name": "Spileman",
+    "Total_gift": "$50342.00",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "8/15/2021"
+  },
+  {
+    "cuid": 3758658322,
+    "first_name": "Arabella",
+    "last_name": "Yesipov",
+    "Total_gift": "$68451.48",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "9/15/2021"
+  },
+  {
+    "cuid": 8781517734,
+    "first_name": "Hermione",
+    "last_name": "Dowley",
+    "Total_gift": "$89401.90",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "5/2/2020"
+  },
+  {
+    "cuid": 6478120724,
+    "first_name": "Micky",
+    "last_name": "Sweetman",
+    "Total_gift": "$13897.39",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "12/17/2020"
+  },
+  {
+    "cuid": 7073583940,
+    "first_name": "Shaine",
+    "last_name": "Leamy",
+    "Total_gift": "$42482.94",
+    "Ads_Viewed": 3,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "8/17/2020"
+  },
+  {
+    "cuid": 4435230429,
+    "first_name": "Hermy",
+    "last_name": "Mabbot",
+    "Total_gift": "$25271.35",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "3/28/2021"
+  },
+  {
+    "cuid": 5250445128,
+    "first_name": "Elsy",
+    "last_name": "Olenikov",
+    "Total_gift": "$45434.86",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "11/8/2020"
+  },
+  {
+    "cuid": 6297581398,
+    "first_name": "Ilario",
+    "last_name": "Domb",
+    "Total_gift": "$89275.17",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "7/21/2020"
+  },
+  {
+    "cuid": 9108963274,
+    "first_name": "Blondelle",
+    "last_name": "Garred",
+    "Total_gift": "$59885.34",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "5/2/2021"
+  },
+  {
+    "cuid": 7293394586,
+    "first_name": "Karalee",
+    "last_name": "Dungey",
+    "Total_gift": "$33946.86",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "5/21/2021"
+  },
+  {
+    "cuid": 4451175291,
+    "first_name": "Florie",
+    "last_name": "Faye",
+    "Total_gift": "$59097.50",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "5/13/2021"
+  },
+  {
+    "cuid": 3320982931,
+    "first_name": "Prent",
+    "last_name": "Janes",
+    "Total_gift": "$65469.52",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "12/23/2021"
+  },
+  {
+    "cuid": 6066224638,
+    "first_name": "Lowrance",
+    "last_name": "Ind",
+    "Total_gift": "$3029.31",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "4/2/2020"
+  },
+  {
+    "cuid": 1767214928,
+    "first_name": "Katharine",
+    "last_name": "Molyneux",
+    "Total_gift": "$70851.05",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "1/16/2022"
+  },
+  {
+    "cuid": 1176376098,
+    "first_name": "Susie",
+    "last_name": "Moult",
+    "Total_gift": "$95540.76",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "7/11/2021"
+  },
+  {
+    "cuid": 3614533409,
+    "first_name": "Aubree",
+    "last_name": "Hillock",
+    "Total_gift": "$48966.17",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "10/28/2021"
+  },
+  {
+    "cuid": 1377518558,
+    "first_name": "Avery",
+    "last_name": "Soonhouse",
+    "Total_gift": "$93919.74",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "12/7/2020"
+  },
+  {
+    "cuid": 6146846414,
+    "first_name": "Anallise",
+    "last_name": "Creser",
+    "Total_gift": "$88545.76",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "6/30/2021"
+  },
+  {
+    "cuid": 4898513115,
+    "first_name": "Umberto",
+    "last_name": "Ivanshintsev",
+    "Total_gift": "$76195.67",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "10/15/2020"
+  },
+  {
+    "cuid": 5552556542,
+    "first_name": "Sal",
+    "last_name": "Dedam",
+    "Total_gift": "$52691.71",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "5/26/2020"
+  },
+  {
+    "cuid": 6418579224,
+    "first_name": "Dennet",
+    "last_name": "MacCostigan",
+    "Total_gift": "$35062.96",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "2/14/2021"
+  },
+  {
+    "cuid": 3740573422,
+    "first_name": "Glenden",
+    "last_name": "Camlin",
+    "Total_gift": "$44816.24",
+    "Ads_Viewed": 8,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "5/3/2021"
+  },
+  {
+    "cuid": 3612061178,
+    "first_name": "Talia",
+    "last_name": "Maltster",
+    "Total_gift": "$39735.64",
+    "Ads_Viewed": 8,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "11/28/2020"
+  },
+  {
+    "cuid": 9892636619,
+    "first_name": "Hetty",
+    "last_name": "Burges",
+    "Total_gift": "$21101.26",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "10/15/2020"
+  },
+  {
+    "cuid": 5738040090,
+    "first_name": "Minerva",
+    "last_name": "Mangion",
+    "Total_gift": "$71347.23",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "9/1/2021"
+  },
+  {
+    "cuid": 8573635703,
+    "first_name": "Skipper",
+    "last_name": "Olekhov",
+    "Total_gift": "$58527.19",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "7/18/2021"
+  },
+  {
+    "cuid": 3671225513,
+    "first_name": "Glyn",
+    "last_name": "Bodimeade",
+    "Total_gift": "$77798.42",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "11/11/2020"
+  },
+  {
+    "cuid": 8047047213,
+    "first_name": "Nadean",
+    "last_name": "Childs",
+    "Total_gift": "$39996.79",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "12/11/2021"
+  },
+  {
+    "cuid": 4968706693,
+    "first_name": "Andee",
+    "last_name": "Karolyi",
+    "Total_gift": "$69137.59",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "10/20/2021"
+  },
+  {
+    "cuid": 6625756385,
+    "first_name": "Kort",
+    "last_name": "Corbett",
+    "Total_gift": "$19392.23",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "8/7/2021"
+  },
+  {
+    "cuid": 2029720038,
+    "first_name": "Pepito",
+    "last_name": "Standley",
+    "Total_gift": "$28664.63",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "10/10/2021"
+  },
+  {
+    "cuid": "0877961115",
+    "first_name": "Kacie",
+    "last_name": "Armfirld",
+    "Total_gift": "$43269.78",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "10/18/2020"
+  },
+  {
+    "cuid": 4551173126,
+    "first_name": "Alexandros",
+    "last_name": "Farlham",
+    "Total_gift": "$59555.59",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "1/10/2021"
+  },
+  {
+    "cuid": 5946413236,
+    "first_name": "Bibi",
+    "last_name": "Banger",
+    "Total_gift": "$85019.89",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "11/30/2021"
+  },
+  {
+    "cuid": 9922586568,
+    "first_name": "Nerte",
+    "last_name": "Studd",
+    "Total_gift": "$4219.10",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "11/15/2020"
+  },
+  {
+    "cuid": 1049561309,
+    "first_name": "Sharleen",
+    "last_name": "Ferreri",
+    "Total_gift": "$86051.91",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "6/13/2021"
+  },
+  {
+    "cuid": 6403330594,
+    "first_name": "Blondell",
+    "last_name": "Harryman",
+    "Total_gift": "$81732.53",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "3/11/2022"
+  },
+  {
+    "cuid": 1485943299,
+    "first_name": "Greta",
+    "last_name": "Yerson",
+    "Total_gift": "$26198.36",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "3/19/2021"
+  },
+  {
+    "cuid": 4839312974,
+    "first_name": "Ophelia",
+    "last_name": "Overell",
+    "Total_gift": "$89430.62",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "3/27/2022"
+  },
+  {
+    "cuid": "0536304696",
+    "first_name": "Cory",
+    "last_name": "Bassano",
+    "Total_gift": "$83311.04",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "12/14/2021"
+  },
+  {
+    "cuid": "0539220000",
+    "first_name": "Caz",
+    "last_name": "Tatterton",
+    "Total_gift": "$18042.58",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "1/19/2021"
+  },
+  {
+    "cuid": 3404368649,
+    "first_name": "Phaidra",
+    "last_name": "Oganian",
+    "Total_gift": "$95787.65",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "11/14/2021"
+  },
+  {
+    "cuid": 7241082702,
+    "first_name": "Danika",
+    "last_name": "Skamal",
+    "Total_gift": "$35224.72",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "9/22/2020"
+  },
+  {
+    "cuid": 1355142784,
+    "first_name": "Stoddard",
+    "last_name": "Normant",
+    "Total_gift": "$30034.34",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "1/4/2022"
+  },
+  {
+    "cuid": 4392059847,
+    "first_name": "Thaddeus",
+    "last_name": "O'Hoey",
+    "Total_gift": "$16245.44",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "1/18/2022"
+  },
+  {
+    "cuid": 6238800062,
+    "first_name": "Ellissa",
+    "last_name": "Bubbear",
+    "Total_gift": "$84621.66",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "11/18/2021"
+  },
+  {
+    "cuid": 5263837615,
+    "first_name": "Andrus",
+    "last_name": "Varndall",
+    "Total_gift": "$69846.19",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "10/20/2020"
+  },
+  {
+    "cuid": 7459769509,
+    "first_name": "Sheelah",
+    "last_name": "Storie",
+    "Total_gift": "$62384.69",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "12/2/2020"
+  },
+  {
+    "cuid": 7818353062,
+    "first_name": "Christean",
+    "last_name": "Whife",
+    "Total_gift": "$57486.35",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "6/12/2021"
+  },
+  {
+    "cuid": 5014991548,
+    "first_name": "Corliss",
+    "last_name": "Brendeke",
+    "Total_gift": "$54646.04",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "10/1/2020"
+  },
+  {
+    "cuid": 2692797493,
+    "first_name": "Vi",
+    "last_name": "Kleiser",
+    "Total_gift": "$32337.48",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "11/25/2021"
+  },
+  {
+    "cuid": 9989819386,
+    "first_name": "Janeczka",
+    "last_name": "Metzke",
+    "Total_gift": "$66236.65",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "12/24/2020"
+  },
+  {
+    "cuid": 5214451350,
+    "first_name": "Fanchon",
+    "last_name": "Conwell",
+    "Total_gift": "$5072.75",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "5/25/2020"
+  },
+  {
+    "cuid": 8659346297,
+    "first_name": "Emili",
+    "last_name": "Klimes",
+    "Total_gift": "$77070.59",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "6/13/2020"
+  },
+  {
+    "cuid": 9305062911,
+    "first_name": "Daniel",
+    "last_name": "Ramsden",
+    "Total_gift": "$1204.90",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "5/19/2020"
+  },
+  {
+    "cuid": 4896320786,
+    "first_name": "Warner",
+    "last_name": "Dutson",
+    "Total_gift": "$28269.95",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "2/6/2021"
+  },
+  {
+    "cuid": 6275025204,
+    "first_name": "Carena",
+    "last_name": "Eadington",
+    "Total_gift": "$28151.19",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "3/27/2021"
+  },
+  {
+    "cuid": 1760765287,
+    "first_name": "Olivette",
+    "last_name": "Edmons",
+    "Total_gift": "$90261.09",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "10/23/2020"
+  },
+  {
+    "cuid": 3102402763,
+    "first_name": "Sadie",
+    "last_name": "Alan",
+    "Total_gift": "$65893.95",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "3/10/2021"
+  },
+  {
+    "cuid": 7303052143,
+    "first_name": "Godfree",
+    "last_name": "Critch",
+    "Total_gift": "$23558.87",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "8/7/2021"
+  },
+  {
+    "cuid": 2138051110,
+    "first_name": "Ali",
+    "last_name": "Marcome",
+    "Total_gift": "$856.81",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "1/13/2021"
+  },
+  {
+    "cuid": 1755496141,
+    "first_name": "Paulita",
+    "last_name": "Spridgeon",
+    "Total_gift": "$69794.19",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "3/11/2021"
+  },
+  {
+    "cuid": "0495936782",
+    "first_name": "Agosto",
+    "last_name": "Chinnock",
+    "Total_gift": "$4208.46",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "10/8/2020"
+  },
+  {
+    "cuid": "0094043523",
+    "first_name": "Hoyt",
+    "last_name": "Weth",
+    "Total_gift": "$55577.30",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "4/1/2021"
+  },
+  {
+    "cuid": 7438393992,
+    "first_name": "Ringo",
+    "last_name": "Hammett",
+    "Total_gift": "$43507.70",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "8/9/2021"
+  },
+  {
+    "cuid": 7248833894,
+    "first_name": "Siana",
+    "last_name": "Mazzey",
+    "Total_gift": "$77216.80",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "9/22/2020"
+  },
+  {
+    "cuid": 4588971476,
+    "first_name": "Ameline",
+    "last_name": "Bunney",
+    "Total_gift": "$2504.22",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "10/7/2020"
+  },
+  {
+    "cuid": 1956179054,
+    "first_name": "Denis",
+    "last_name": "Lyddiard",
+    "Total_gift": "$36962.87",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "6/4/2020"
+  },
+  {
+    "cuid": 9556469907,
+    "first_name": "Alessandro",
+    "last_name": "Jendrassik",
+    "Total_gift": "$67503.42",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "10/6/2021"
+  },
+  {
+    "cuid": 7836995925,
+    "first_name": "Gawen",
+    "last_name": "Room",
+    "Total_gift": "$290.87",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "1/15/2021"
+  },
+  {
+    "cuid": 4089328837,
+    "first_name": "Nobe",
+    "last_name": "Leggate",
+    "Total_gift": "$35299.65",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 30,
+    "Last_Active_Date": "9/8/2020"
+  },
+  {
+    "cuid": 1896464165,
+    "first_name": "Kit",
+    "last_name": "Creegan",
+    "Total_gift": "$48477.17",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "7/9/2020"
+  },
+  {
+    "cuid": 9883781342,
+    "first_name": "Hyman",
+    "last_name": "Gyer",
+    "Total_gift": "$8014.48",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "7/24/2021"
+  },
+  {
+    "cuid": 3581611031,
+    "first_name": "Pippy",
+    "last_name": "Windeatt",
+    "Total_gift": "$44449.70",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "6/8/2020"
+  },
+  {
+    "cuid": 9355611501,
+    "first_name": "Ernst",
+    "last_name": "Lapley",
+    "Total_gift": "$38559.56",
+    "Ads_Viewed": 25,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "8/29/2020"
+  },
+  {
+    "cuid": 6002575367,
+    "first_name": "Una",
+    "last_name": "Mosley",
+    "Total_gift": "$2131.08",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "3/17/2021"
+  },
+  {
+    "cuid": 9195194681,
+    "first_name": "Dredi",
+    "last_name": "Rasher",
+    "Total_gift": "$86833.16",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "8/17/2020"
+  },
+  {
+    "cuid": 2682881769,
+    "first_name": "Elihu",
+    "last_name": "Lubeck",
+    "Total_gift": "$35495.19",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "11/16/2021"
+  },
+  {
+    "cuid": 4843512230,
+    "first_name": "Neall",
+    "last_name": "Filov",
+    "Total_gift": "$26640.35",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "11/28/2021"
+  },
+  {
+    "cuid": 1490547703,
+    "first_name": "Shalom",
+    "last_name": "Loadsman",
+    "Total_gift": "$80265.39",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "12/21/2021"
+  },
+  {
+    "cuid": 5606045303,
+    "first_name": "Duffie",
+    "last_name": "Greenhouse",
+    "Total_gift": "$16238.91",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "4/9/2022"
+  },
+  {
+    "cuid": 7142767464,
+    "first_name": "Vanna",
+    "last_name": "Dadge",
+    "Total_gift": "$94531.24",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "8/18/2020"
+  },
+  {
+    "cuid": 2486128743,
+    "first_name": "Lanita",
+    "last_name": "Chatainier",
+    "Total_gift": "$41823.84",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "2/16/2021"
+  },
+  {
+    "cuid": 5651796932,
+    "first_name": "Sondra",
+    "last_name": "Cliburn",
+    "Total_gift": "$24770.96",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "4/15/2022"
+  },
+  {
+    "cuid": 8893297094,
+    "first_name": "Beck",
+    "last_name": "Boulter",
+    "Total_gift": "$42789.85",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 25,
+    "Last_Active_Date": "3/25/2022"
+  },
+  {
+    "cuid": 5807622731,
+    "first_name": "Krisha",
+    "last_name": "Kornyshev",
+    "Total_gift": "$51941.26",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "4/30/2020"
+  },
+  {
+    "cuid": 7520021432,
+    "first_name": "Gleda",
+    "last_name": "Eplett",
+    "Total_gift": "$93331.70",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "4/9/2020"
+  },
+  {
+    "cuid": "0263781410",
+    "first_name": "Esta",
+    "last_name": "Josland",
+    "Total_gift": "$48675.20",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "4/29/2020"
+  },
+  {
+    "cuid": "0295647205",
+    "first_name": "Arne",
+    "last_name": "Gilvear",
+    "Total_gift": "$42651.96",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "1/7/2022"
+  },
+  {
+    "cuid": 2983615286,
+    "first_name": "Fransisco",
+    "last_name": "Albrook",
+    "Total_gift": "$1984.72",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "12/30/2021"
+  },
+  {
+    "cuid": 3123248291,
+    "first_name": "Alissa",
+    "last_name": "Croot",
+    "Total_gift": "$79188.29",
+    "Ads_Viewed": 3,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "1/30/2021"
+  },
+  {
+    "cuid": 2102627225,
+    "first_name": "Betsy",
+    "last_name": "Winger",
+    "Total_gift": "$30645.94",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "1/9/2021"
+  },
+  {
+    "cuid": 6788061580,
+    "first_name": "Dukey",
+    "last_name": "McVee",
+    "Total_gift": "$56576.68",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "3/12/2022"
+  },
+  {
+    "cuid": 3848866366,
+    "first_name": "Freemon",
+    "last_name": "Duncklee",
+    "Total_gift": "$43122.93",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "9/30/2021"
+  },
+  {
+    "cuid": 8195238890,
+    "first_name": "Deny",
+    "last_name": "Terrey",
+    "Total_gift": "$31941.77",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "9/1/2020"
+  },
+  {
+    "cuid": 6356179244,
+    "first_name": "Keenan",
+    "last_name": "Timmis",
+    "Total_gift": "$82352.33",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "1/16/2021"
+  },
+  {
+    "cuid": 3953573780,
+    "first_name": "Bidget",
+    "last_name": "Shelliday",
+    "Total_gift": "$38424.72",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "10/27/2021"
+  },
+  {
+    "cuid": "0109050029",
+    "first_name": "Morgan",
+    "last_name": "Ferran",
+    "Total_gift": "$76.14",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "10/6/2021"
+  },
+  {
+    "cuid": 2946205215,
+    "first_name": "Mallissa",
+    "last_name": "Sime",
+    "Total_gift": "$88356.37",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "6/28/2020"
+  },
+  {
+    "cuid": 2000294944,
+    "first_name": "Francklyn",
+    "last_name": "Alenshev",
+    "Total_gift": "$87603.31",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "2/6/2021"
+  },
+  {
+    "cuid": 8193576845,
+    "first_name": "Rodney",
+    "last_name": "Quilliam",
+    "Total_gift": "$27177.93",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "5/30/2020"
+  },
+  {
+    "cuid": 1987198719,
+    "first_name": "Lauritz",
+    "last_name": "Burne",
+    "Total_gift": "$28598.00",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "1/12/2022"
+  },
+  {
+    "cuid": 3819881379,
+    "first_name": "Tallou",
+    "last_name": "Aujouanet",
+    "Total_gift": "$46008.41",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "12/17/2020"
+  },
+  {
+    "cuid": 1800988478,
+    "first_name": "Vonny",
+    "last_name": "Dionisi",
+    "Total_gift": "$40348.90",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "7/18/2020"
+  },
+  {
+    "cuid": 8328284146,
+    "first_name": "Fritz",
+    "last_name": "Georgeson",
+    "Total_gift": "$65414.60",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "6/1/2021"
+  },
+  {
+    "cuid": 3574540191,
+    "first_name": "Benoit",
+    "last_name": "Valois",
+    "Total_gift": "$98679.49",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "2/21/2022"
+  },
+  {
+    "cuid": "0889821364",
+    "first_name": "Israel",
+    "last_name": "Chace",
+    "Total_gift": "$82180.75",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 30,
+    "Last_Active_Date": "2/28/2021"
+  },
+  {
+    "cuid": 9363355993,
+    "first_name": "Collie",
+    "last_name": "Rego",
+    "Total_gift": "$62824.08",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "7/14/2021"
+  },
+  {
+    "cuid": 7461910647,
+    "first_name": "Robinia",
+    "last_name": "Bohlmann",
+    "Total_gift": "$21522.10",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "3/25/2021"
+  },
+  {
+    "cuid": "0750705272",
+    "first_name": "Lyman",
+    "last_name": "Camell",
+    "Total_gift": "$74785.87",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "8/12/2020"
+  },
+  {
+    "cuid": 5542604188,
+    "first_name": "Lena",
+    "last_name": "Giacomuzzi",
+    "Total_gift": "$57729.96",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "1/18/2022"
+  },
+  {
+    "cuid": 7365456388,
+    "first_name": "Bogart",
+    "last_name": "Girodias",
+    "Total_gift": "$41892.95",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "4/18/2020"
+  },
+  {
+    "cuid": 5475461228,
+    "first_name": "Konstantine",
+    "last_name": "Belshaw",
+    "Total_gift": "$63814.08",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "10/24/2021"
+  },
+  {
+    "cuid": 6044171493,
+    "first_name": "Christabel",
+    "last_name": "Knappitt",
+    "Total_gift": "$43198.57",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "11/29/2021"
+  },
+  {
+    "cuid": 2435517459,
+    "first_name": "Michal",
+    "last_name": "Bru",
+    "Total_gift": "$19199.87",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "11/18/2021"
+  },
+  {
+    "cuid": 5799214986,
+    "first_name": "Zacharia",
+    "last_name": "Mander",
+    "Total_gift": "$6180.13",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "9/14/2020"
+  },
+  {
+    "cuid": 7075132571,
+    "first_name": "Janessa",
+    "last_name": "Uphill",
+    "Total_gift": "$43574.88",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "9/28/2020"
+  },
+  {
+    "cuid": 6720829629,
+    "first_name": "Kerianne",
+    "last_name": "Arntzen",
+    "Total_gift": "$63124.40",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "12/4/2021"
+  },
+  {
+    "cuid": 1376974703,
+    "first_name": "Reggie",
+    "last_name": "Redon",
+    "Total_gift": "$11441.69",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "7/18/2021"
+  },
+  {
+    "cuid": 2045860809,
+    "first_name": "Dukey",
+    "last_name": "McLellan",
+    "Total_gift": "$22893.94",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "4/3/2020"
+  },
+  {
+    "cuid": 6754492031,
+    "first_name": "Kathryn",
+    "last_name": "Edgett",
+    "Total_gift": "$15398.78",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "3/1/2021"
+  },
+  {
+    "cuid": 1222625997,
+    "first_name": "Van",
+    "last_name": "Gallie",
+    "Total_gift": "$51707.74",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "3/20/2021"
+  },
+  {
+    "cuid": 3081288940,
+    "first_name": "Keenan",
+    "last_name": "McCullagh",
+    "Total_gift": "$70330.69",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "4/12/2022"
+  },
+  {
+    "cuid": 2983838935,
+    "first_name": "Stephenie",
+    "last_name": "Babber",
+    "Total_gift": "$85900.33",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "3/9/2022"
+  },
+  {
+    "cuid": 5364662004,
+    "first_name": "Germana",
+    "last_name": "Joselevitch",
+    "Total_gift": "$10138.51",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "8/21/2020"
+  },
+  {
+    "cuid": 6792193658,
+    "first_name": "Lorette",
+    "last_name": "Keller",
+    "Total_gift": "$14044.64",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "3/30/2022"
+  },
+  {
+    "cuid": "0076323714",
+    "first_name": "Den",
+    "last_name": "Ellinor",
+    "Total_gift": "$15607.47",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "12/7/2020"
+  },
+  {
+    "cuid": 3920748093,
+    "first_name": "Burk",
+    "last_name": "Horsfield",
+    "Total_gift": "$45024.10",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "2/4/2021"
+  },
+  {
+    "cuid": "0714475815",
+    "first_name": "Elka",
+    "last_name": "D'Antuoni",
+    "Total_gift": "$85774.57",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "2/13/2022"
+  },
+  {
+    "cuid": 9480792842,
+    "first_name": "Lola",
+    "last_name": "Cordie",
+    "Total_gift": "$88593.45",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "11/26/2021"
+  },
+  {
+    "cuid": 8207029463,
+    "first_name": "Appolonia",
+    "last_name": "Isakovic",
+    "Total_gift": "$55631.74",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "5/3/2021"
+  },
+  {
+    "cuid": 3759808891,
+    "first_name": "Caressa",
+    "last_name": "Offiler",
+    "Total_gift": "$98323.96",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "12/8/2020"
+  },
+  {
+    "cuid": 2092307363,
+    "first_name": "Egon",
+    "last_name": "Primrose",
+    "Total_gift": "$76969.62",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "12/28/2021"
+  },
+  {
+    "cuid": 1340179067,
+    "first_name": "Lucia",
+    "last_name": "Byneth",
+    "Total_gift": "$56138.84",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "10/29/2021"
+  },
+  {
+    "cuid": 8731765491,
+    "first_name": "Maddie",
+    "last_name": "Rabbet",
+    "Total_gift": "$3321.84",
+    "Ads_Viewed": 3,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "7/15/2020"
+  },
+  {
+    "cuid": 4497185303,
+    "first_name": "Ermengarde",
+    "last_name": "Szymonwicz",
+    "Total_gift": "$87599.91",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "2/14/2022"
+  },
+  {
+    "cuid": 7376500731,
+    "first_name": "Lexine",
+    "last_name": "Dudny",
+    "Total_gift": "$45625.76",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "10/10/2020"
+  },
+  {
+    "cuid": 6185051834,
+    "first_name": "Berni",
+    "last_name": "Hards",
+    "Total_gift": "$35372.40",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "5/7/2020"
+  },
+  {
+    "cuid": 1520079400,
+    "first_name": "Larissa",
+    "last_name": "Daymond",
+    "Total_gift": "$29445.34",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "3/29/2020"
+  },
+  {
+    "cuid": 3707987612,
+    "first_name": "Lucien",
+    "last_name": "Ciotto",
+    "Total_gift": "$63288.05",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "8/21/2020"
+  },
+  {
+    "cuid": 3444756488,
+    "first_name": "Isahella",
+    "last_name": "Treagus",
+    "Total_gift": "$22022.88",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "4/4/2020"
+  },
+  {
+    "cuid": 4672993930,
+    "first_name": "Tripp",
+    "last_name": "Cuthbert",
+    "Total_gift": "$54439.40",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "10/13/2021"
+  },
+  {
+    "cuid": 8626961278,
+    "first_name": "Zorina",
+    "last_name": "Boosey",
+    "Total_gift": "$25657.87",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "9/5/2020"
+  },
+  {
+    "cuid": 8497235878,
+    "first_name": "Meara",
+    "last_name": "Egalton",
+    "Total_gift": "$74205.75",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "3/7/2022"
+  },
+  {
+    "cuid": 3304275851,
+    "first_name": "Melba",
+    "last_name": "Huitson",
+    "Total_gift": "$76009.13",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "11/19/2021"
+  },
+  {
+    "cuid": 5641389102,
+    "first_name": "Ebeneser",
+    "last_name": "Brozsset",
+    "Total_gift": "$61099.28",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "11/28/2020"
+  },
+  {
+    "cuid": 4657939068,
+    "first_name": "Shepherd",
+    "last_name": "Lawless",
+    "Total_gift": "$54489.13",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "2/18/2021"
+  },
+  {
+    "cuid": 8866016381,
+    "first_name": "Dahlia",
+    "last_name": "Bitterton",
+    "Total_gift": "$42813.57",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "6/7/2020"
+  },
+  {
+    "cuid": "0704546531",
+    "first_name": "Levy",
+    "last_name": "Piotr",
+    "Total_gift": "$61966.28",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "12/7/2020"
+  },
+  {
+    "cuid": 3319013262,
+    "first_name": "Gordan",
+    "last_name": "Moxted",
+    "Total_gift": "$30272.10",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "9/20/2021"
+  },
+  {
+    "cuid": 2547006081,
+    "first_name": "Jessamyn",
+    "last_name": "Easdon",
+    "Total_gift": "$81801.11",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "5/5/2020"
+  },
+  {
+    "cuid": 4976437817,
+    "first_name": "Matthias",
+    "last_name": "Inkster",
+    "Total_gift": "$94141.10",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "11/7/2020"
+  },
+  {
+    "cuid": 4224333007,
+    "first_name": "Aline",
+    "last_name": "Piche",
+    "Total_gift": "$92881.55",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "7/31/2021"
+  },
+  {
+    "cuid": 6204991132,
+    "first_name": "Maryjane",
+    "last_name": "Pigeram",
+    "Total_gift": "$77224.51",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "9/11/2020"
+  },
+  {
+    "cuid": 7182712032,
+    "first_name": "Jethro",
+    "last_name": "Freeman",
+    "Total_gift": "$99907.16",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "1/30/2022"
+  },
+  {
+    "cuid": 8902160610,
+    "first_name": "Craggy",
+    "last_name": "Berriman",
+    "Total_gift": "$27751.98",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "4/1/2022"
+  },
+  {
+    "cuid": 2299094156,
+    "first_name": "Robinet",
+    "last_name": "Varley",
+    "Total_gift": "$18357.69",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "1/15/2022"
+  },
+  {
+    "cuid": 9648232768,
+    "first_name": "Otto",
+    "last_name": "Jallin",
+    "Total_gift": "$91605.17",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "4/28/2021"
+  },
+  {
+    "cuid": "0483686778",
+    "first_name": "Griff",
+    "last_name": "Ottley",
+    "Total_gift": "$46627.31",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "10/5/2020"
+  },
+  {
+    "cuid": 7088144867,
+    "first_name": "Jackie",
+    "last_name": "Kollatsch",
+    "Total_gift": "$41342.52",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "9/6/2020"
+  },
+  {
+    "cuid": 1893895300,
+    "first_name": "Angel",
+    "last_name": "Negro",
+    "Total_gift": "$9634.06",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "7/11/2020"
+  },
+  {
+    "cuid": 2130378056,
+    "first_name": "Florinda",
+    "last_name": "Gow",
+    "Total_gift": "$78136.36",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "3/29/2022"
+  },
+  {
+    "cuid": 8868696746,
+    "first_name": "Earlie",
+    "last_name": "Gurko",
+    "Total_gift": "$34633.27",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "3/11/2022"
+  },
+  {
+    "cuid": 9822720432,
+    "first_name": "Kassandra",
+    "last_name": "Klement",
+    "Total_gift": "$62724.18",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "10/1/2021"
+  },
+  {
+    "cuid": "0038784432",
+    "first_name": "Russ",
+    "last_name": "Battle",
+    "Total_gift": "$34888.04",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "9/1/2020"
+  },
+  {
+    "cuid": 2425745750,
+    "first_name": "Dee",
+    "last_name": "Currier",
+    "Total_gift": "$24625.26",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "11/24/2021"
+  },
+  {
+    "cuid": 7358196791,
+    "first_name": "Frannie",
+    "last_name": "Sheal",
+    "Total_gift": "$76331.75",
+    "Ads_Viewed": 8,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "5/27/2021"
+  },
+  {
+    "cuid": 6941002859,
+    "first_name": "Eddy",
+    "last_name": "Knibb",
+    "Total_gift": "$65020.34",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "12/21/2020"
+  },
+  {
+    "cuid": 2272906451,
+    "first_name": "Blake",
+    "last_name": "Toope",
+    "Total_gift": "$1761.81",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "4/19/2021"
+  },
+  {
+    "cuid": 7641874134,
+    "first_name": "Fanchon",
+    "last_name": "McEvay",
+    "Total_gift": "$11131.46",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "9/11/2021"
+  },
+  {
+    "cuid": 1722604212,
+    "first_name": "Lisle",
+    "last_name": "Farrow",
+    "Total_gift": "$75883.06",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "4/25/2020"
+  },
+  {
+    "cuid": 9571495174,
+    "first_name": "Hillary",
+    "last_name": "Arington",
+    "Total_gift": "$74209.65",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "10/30/2021"
+  },
+  {
+    "cuid": 2221032489,
+    "first_name": "Randa",
+    "last_name": "Moffett",
+    "Total_gift": "$41250.47",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "8/3/2021"
+  },
+  {
+    "cuid": 7734165818,
+    "first_name": "Tabitha",
+    "last_name": "Ferneley",
+    "Total_gift": "$29721.93",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "4/15/2021"
+  },
+  {
+    "cuid": 6613997358,
+    "first_name": "Fritz",
+    "last_name": "Mateiko",
+    "Total_gift": "$92119.25",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "7/14/2020"
+  },
+  {
+    "cuid": 6786886558,
+    "first_name": "Kettie",
+    "last_name": "Theodoris",
+    "Total_gift": "$22386.38",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "10/16/2020"
+  },
+  {
+    "cuid": 7056448348,
+    "first_name": "Paulie",
+    "last_name": "Ife",
+    "Total_gift": "$60228.66",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "9/28/2021"
+  },
+  {
+    "cuid": 1879013274,
+    "first_name": "Marget",
+    "last_name": "Cregin",
+    "Total_gift": "$7031.56",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "11/4/2021"
+  },
+  {
+    "cuid": 6986989741,
+    "first_name": "Elbert",
+    "last_name": "Shoveller",
+    "Total_gift": "$97526.76",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "8/28/2020"
+  },
+  {
+    "cuid": 7709694209,
+    "first_name": "Nerte",
+    "last_name": "Fernao",
+    "Total_gift": "$69562.97",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "11/23/2020"
+  },
+  {
+    "cuid": 4208319437,
+    "first_name": "Gabriela",
+    "last_name": "McMorland",
+    "Total_gift": "$39121.68",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "1/1/2022"
+  },
+  {
+    "cuid": 6650173339,
+    "first_name": "Torrance",
+    "last_name": "Landsbury",
+    "Total_gift": "$46423.51",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "3/15/2022"
+  },
+  {
+    "cuid": 8651026412,
+    "first_name": "Collie",
+    "last_name": "Labbet",
+    "Total_gift": "$14707.67",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "12/15/2020"
+  },
+  {
+    "cuid": 5197083484,
+    "first_name": "Dorian",
+    "last_name": "Deeble",
+    "Total_gift": "$19532.87",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "3/1/2021"
+  },
+  {
+    "cuid": 9483214440,
+    "first_name": "Nina",
+    "last_name": "Readwood",
+    "Total_gift": "$70744.88",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "5/8/2021"
+  },
+  {
+    "cuid": 4178181033,
+    "first_name": "Phyllis",
+    "last_name": "Loynton",
+    "Total_gift": "$61947.20",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "6/20/2021"
+  },
+  {
+    "cuid": 6582508679,
+    "first_name": "Anna",
+    "last_name": "Faircley",
+    "Total_gift": "$86422.04",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "7/19/2021"
+  },
+  {
+    "cuid": 3536358934,
+    "first_name": "Bernette",
+    "last_name": "Curle",
+    "Total_gift": "$16677.63",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 25,
+    "Last_Active_Date": "8/26/2020"
+  },
+  {
+    "cuid": 8871052684,
+    "first_name": "Clemmie",
+    "last_name": "Cassella",
+    "Total_gift": "$24614.43",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "8/17/2020"
+  },
+  {
+    "cuid": 5951060265,
+    "first_name": "Janeta",
+    "last_name": "Blakeston",
+    "Total_gift": "$25633.86",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "4/4/2022"
+  },
+  {
+    "cuid": 1777160103,
+    "first_name": "Mariska",
+    "last_name": "Brookzie",
+    "Total_gift": "$12125.71",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "9/22/2021"
+  },
+  {
+    "cuid": 3405554993,
+    "first_name": "Ivette",
+    "last_name": "Gilbody",
+    "Total_gift": "$96135.03",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "7/28/2021"
+  },
+  {
+    "cuid": 1888325690,
+    "first_name": "Yoshiko",
+    "last_name": "Goadbie",
+    "Total_gift": "$64843.93",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "9/4/2021"
+  },
+  {
+    "cuid": 6270827590,
+    "first_name": "Candice",
+    "last_name": "Kegg",
+    "Total_gift": "$31459.21",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "12/28/2020"
+  },
+  {
+    "cuid": 9514742478,
+    "first_name": "Dorelia",
+    "last_name": "Canlin",
+    "Total_gift": "$43753.68",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "10/13/2021"
+  },
+  {
+    "cuid": 8229513279,
+    "first_name": "Rica",
+    "last_name": "Paulucci",
+    "Total_gift": "$87894.71",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "9/22/2021"
+  },
+  {
+    "cuid": 7814450047,
+    "first_name": "Kienan",
+    "last_name": "Wannop",
+    "Total_gift": "$35599.09",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "3/31/2021"
+  },
+  {
+    "cuid": "0073445401",
+    "first_name": "Halie",
+    "last_name": "Mongeot",
+    "Total_gift": "$79943.39",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "9/27/2020"
+  },
+  {
+    "cuid": 3121130129,
+    "first_name": "Shurwood",
+    "last_name": "Robertet",
+    "Total_gift": "$14492.68",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "5/17/2021"
+  },
+  {
+    "cuid": 2141932475,
+    "first_name": "Nicolas",
+    "last_name": "Perigo",
+    "Total_gift": "$21914.38",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "7/10/2021"
+  },
+  {
+    "cuid": 3432584539,
+    "first_name": "Boyd",
+    "last_name": "Comford",
+    "Total_gift": "$9905.95",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "12/28/2021"
+  },
+  {
+    "cuid": 4069295151,
+    "first_name": "Tobias",
+    "last_name": "Amiranda",
+    "Total_gift": "$44623.07",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "1/13/2022"
+  },
+  {
+    "cuid": 3958805310,
+    "first_name": "Nancie",
+    "last_name": "Creed",
+    "Total_gift": "$9967.61",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "3/24/2020"
+  },
+  {
+    "cuid": 1749418207,
+    "first_name": "Enoch",
+    "last_name": "Upfold",
+    "Total_gift": "$96423.44",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "7/14/2020"
+  },
+  {
+    "cuid": 1025696549,
+    "first_name": "Lavinie",
+    "last_name": "Ranscombe",
+    "Total_gift": "$62341.27",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "1/25/2022"
+  },
+  {
+    "cuid": 5310202021,
+    "first_name": "Marve",
+    "last_name": "Bardey",
+    "Total_gift": "$39669.30",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "11/9/2020"
+  },
+  {
+    "cuid": 8016795757,
+    "first_name": "Eduard",
+    "last_name": "Rowthorne",
+    "Total_gift": "$49898.34",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "6/5/2020"
+  },
+  {
+    "cuid": 7866761930,
+    "first_name": "Kathryne",
+    "last_name": "Torrisi",
+    "Total_gift": "$22527.06",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "8/19/2021"
+  },
+  {
+    "cuid": 3755507277,
+    "first_name": "Blinny",
+    "last_name": "Filde",
+    "Total_gift": "$34713.61",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "8/28/2021"
+  },
+  {
+    "cuid": 3876706270,
+    "first_name": "Clare",
+    "last_name": "Bownde",
+    "Total_gift": "$23617.40",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "7/4/2021"
+  },
+  {
+    "cuid": "0623676265",
+    "first_name": "Doreen",
+    "last_name": "Desantis",
+    "Total_gift": "$1415.30",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "4/3/2020"
+  },
+  {
+    "cuid": 3956472837,
+    "first_name": "Pat",
+    "last_name": "Gherarducci",
+    "Total_gift": "$95586.32",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "12/17/2020"
+  },
+  {
+    "cuid": 2877362833,
+    "first_name": "Issy",
+    "last_name": "Cornilli",
+    "Total_gift": "$19791.07",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "4/10/2020"
+  },
+  {
+    "cuid": 4031311842,
+    "first_name": "Eddie",
+    "last_name": "Burchess",
+    "Total_gift": "$49858.57",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 30,
+    "Last_Active_Date": "2/23/2022"
+  },
+  {
+    "cuid": 2716073740,
+    "first_name": "Cassey",
+    "last_name": "Merricks",
+    "Total_gift": "$28992.96",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "11/19/2021"
+  },
+  {
+    "cuid": 7286624350,
+    "first_name": "Morgun",
+    "last_name": "Goroni",
+    "Total_gift": "$13515.72",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "4/24/2020"
+  },
+  {
+    "cuid": 6553611173,
+    "first_name": "Hazlett",
+    "last_name": "Nangle",
+    "Total_gift": "$54404.17",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "1/15/2022"
+  },
+  {
+    "cuid": 3473679755,
+    "first_name": "Anselma",
+    "last_name": "Winnett",
+    "Total_gift": "$74790.05",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 30,
+    "Last_Active_Date": "1/21/2021"
+  },
+  {
+    "cuid": 2398482782,
+    "first_name": "Gordy",
+    "last_name": "Lamkin",
+    "Total_gift": "$83593.62",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "5/23/2021"
+  },
+  {
+    "cuid": 6548038746,
+    "first_name": "Miranda",
+    "last_name": "de Glanville",
+    "Total_gift": "$90423.02",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "4/4/2021"
+  },
+  {
+    "cuid": 1811682758,
+    "first_name": "Bianka",
+    "last_name": "Brinklow",
+    "Total_gift": "$53135.80",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "7/2/2020"
+  },
+  {
+    "cuid": 9498018804,
+    "first_name": "Mikel",
+    "last_name": "Nisuis",
+    "Total_gift": "$40069.51",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "1/28/2022"
+  },
+  {
+    "cuid": 1040701655,
+    "first_name": "Christopher",
+    "last_name": "Wonfar",
+    "Total_gift": "$68629.97",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "4/9/2020"
+  },
+  {
+    "cuid": 1316177807,
+    "first_name": "Stanford",
+    "last_name": "Cuardall",
+    "Total_gift": "$89993.13",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "7/4/2021"
+  },
+  {
+    "cuid": 4109259282,
+    "first_name": "Minerva",
+    "last_name": "Shaul",
+    "Total_gift": "$54443.71",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "1/23/2022"
+  },
+  {
+    "cuid": 7889274130,
+    "first_name": "Beatriz",
+    "last_name": "Schistl",
+    "Total_gift": "$15113.77",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "8/11/2020"
+  },
+  {
+    "cuid": 6965054832,
+    "first_name": "Ronny",
+    "last_name": "Sherme",
+    "Total_gift": "$87984.15",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "12/3/2021"
+  },
+  {
+    "cuid": 6270499291,
+    "first_name": "Gaylord",
+    "last_name": "Pozzi",
+    "Total_gift": "$23451.49",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "3/11/2021"
+  },
+  {
+    "cuid": 4180523337,
+    "first_name": "Margot",
+    "last_name": "McEntegart",
+    "Total_gift": "$40381.51",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "8/23/2020"
+  },
+  {
+    "cuid": 4484580799,
+    "first_name": "Aylmer",
+    "last_name": "McAnellye",
+    "Total_gift": "$73369.57",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "2/17/2021"
+  },
+  {
+    "cuid": 7674082733,
+    "first_name": "Christy",
+    "last_name": "Greystock",
+    "Total_gift": "$4253.17",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "5/7/2021"
+  },
+  {
+    "cuid": 9058200175,
+    "first_name": "Corty",
+    "last_name": "Cavell",
+    "Total_gift": "$14985.62",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "4/4/2021"
+  },
+  {
+    "cuid": 6995560353,
+    "first_name": "Cecilla",
+    "last_name": "Shave",
+    "Total_gift": "$25646.12",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "4/7/2022"
+  },
+  {
+    "cuid": 1421278162,
+    "first_name": "Billy",
+    "last_name": "Sollner",
+    "Total_gift": "$59756.06",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "7/5/2020"
+  },
+  {
+    "cuid": 7982994474,
+    "first_name": "Octavia",
+    "last_name": "Chaffen",
+    "Total_gift": "$18482.36",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "10/16/2020"
+  },
+  {
+    "cuid": 5679901528,
+    "first_name": "Elonore",
+    "last_name": "Romain",
+    "Total_gift": "$58474.23",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "9/9/2020"
+  },
+  {
+    "cuid": 1370541155,
+    "first_name": "Allyce",
+    "last_name": "Rizzi",
+    "Total_gift": "$38122.46",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "7/30/2020"
+  },
+  {
+    "cuid": "0198404212",
+    "first_name": "Kerry",
+    "last_name": "Earingey",
+    "Total_gift": "$79455.82",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "12/21/2020"
+  },
+  {
+    "cuid": 7153323554,
+    "first_name": "Teador",
+    "last_name": "Fairbairn",
+    "Total_gift": "$18686.09",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "7/29/2020"
+  },
+  {
+    "cuid": 9206798227,
+    "first_name": "Dagny",
+    "last_name": "Lauthian",
+    "Total_gift": "$76807.28",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "7/9/2021"
+  },
+  {
+    "cuid": 4923244674,
+    "first_name": "Bernhard",
+    "last_name": "Switland",
+    "Total_gift": "$83452.94",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "2/14/2021"
+  },
+  {
+    "cuid": 5203847177,
+    "first_name": "Daphna",
+    "last_name": "Lawtie",
+    "Total_gift": "$29831.48",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "12/23/2021"
+  },
+  {
+    "cuid": 7108681692,
+    "first_name": "Vernen",
+    "last_name": "Bolzen",
+    "Total_gift": "$27789.35",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 25,
+    "Last_Active_Date": "1/6/2022"
+  },
+  {
+    "cuid": 2638899356,
+    "first_name": "Mandel",
+    "last_name": "Lowbridge",
+    "Total_gift": "$74655.95",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "11/23/2021"
+  },
+  {
+    "cuid": 6456565448,
+    "first_name": "Jobyna",
+    "last_name": "Darrington",
+    "Total_gift": "$99167.48",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "4/20/2021"
+  },
+  {
+    "cuid": "0384679749",
+    "first_name": "Gleda",
+    "last_name": "Emburey",
+    "Total_gift": "$97670.39",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "9/4/2020"
+  },
+  {
+    "cuid": 8817234699,
+    "first_name": "Hephzibah",
+    "last_name": "McMonies",
+    "Total_gift": "$53786.66",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "6/22/2021"
+  },
+  {
+    "cuid": 9460584462,
+    "first_name": "Ediva",
+    "last_name": "Le Pine",
+    "Total_gift": "$50966.84",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "9/23/2020"
+  },
+  {
+    "cuid": 8268457635,
+    "first_name": "Teador",
+    "last_name": "Northover",
+    "Total_gift": "$8892.17",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "1/8/2022"
+  },
+  {
+    "cuid": 3447913975,
+    "first_name": "Crysta",
+    "last_name": "Haversham",
+    "Total_gift": "$58309.75",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "6/10/2020"
+  },
+  {
+    "cuid": "0263540405",
+    "first_name": "Dona",
+    "last_name": "Polycote",
+    "Total_gift": "$4988.77",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "5/4/2020"
+  },
+  {
+    "cuid": 6162358216,
+    "first_name": "Helyn",
+    "last_name": "Kembery",
+    "Total_gift": "$7488.09",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "1/16/2022"
+  },
+  {
+    "cuid": 9037938841,
+    "first_name": "Aeriela",
+    "last_name": "Egiloff",
+    "Total_gift": "$53741.21",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "6/4/2020"
+  },
+  {
+    "cuid": 2723122816,
+    "first_name": "Carol-jean",
+    "last_name": "Pochet",
+    "Total_gift": "$25937.72",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "1/7/2022"
+  },
+  {
+    "cuid": 5854951274,
+    "first_name": "Nettle",
+    "last_name": "Gillani",
+    "Total_gift": "$75175.12",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 30,
+    "Last_Active_Date": "12/9/2020"
+  },
+  {
+    "cuid": 3988707589,
+    "first_name": "Camala",
+    "last_name": "Markova",
+    "Total_gift": "$51646.53",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "8/11/2020"
+  },
+  {
+    "cuid": 7111219015,
+    "first_name": "Alfie",
+    "last_name": "Choffin",
+    "Total_gift": "$96648.63",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "10/28/2020"
+  },
+  {
+    "cuid": 3471104143,
+    "first_name": "Isahella",
+    "last_name": "Lygoe",
+    "Total_gift": "$22455.83",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "2/6/2022"
+  },
+  {
+    "cuid": 4137303282,
+    "first_name": "Shir",
+    "last_name": "McCarly",
+    "Total_gift": "$70891.75",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "8/17/2020"
+  },
+  {
+    "cuid": 1810389992,
+    "first_name": "Kort",
+    "last_name": "Lafaye",
+    "Total_gift": "$93510.03",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "12/25/2021"
+  },
+  {
+    "cuid": "0873363027",
+    "first_name": "Audra",
+    "last_name": "Dugget",
+    "Total_gift": "$60889.19",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "10/17/2021"
+  },
+  {
+    "cuid": 2829193423,
+    "first_name": "Candy",
+    "last_name": "Di Antonio",
+    "Total_gift": "$26357.88",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "4/8/2020"
+  },
+  {
+    "cuid": 1599900874,
+    "first_name": "Marve",
+    "last_name": "Justun",
+    "Total_gift": "$7454.10",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "1/24/2022"
+  },
+  {
+    "cuid": 2498279326,
+    "first_name": "Jillene",
+    "last_name": "Wallbutton",
+    "Total_gift": "$38281.23",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "6/2/2020"
+  },
+  {
+    "cuid": 9901379725,
+    "first_name": "Vidovic",
+    "last_name": "Gannicleff",
+    "Total_gift": "$28992.16",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "7/11/2020"
+  },
+  {
+    "cuid": 7478865534,
+    "first_name": "Raleigh",
+    "last_name": "Antonioni",
+    "Total_gift": "$35172.79",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "10/7/2020"
+  },
+  {
+    "cuid": 4502762741,
+    "first_name": "Calv",
+    "last_name": "Stuck",
+    "Total_gift": "$70559.57",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "2/22/2021"
+  },
+  {
+    "cuid": 1995477214,
+    "first_name": "Betteann",
+    "last_name": "Lisciandro",
+    "Total_gift": "$61184.14",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "3/3/2022"
+  },
+  {
+    "cuid": 6812433675,
+    "first_name": "Karrah",
+    "last_name": "Water",
+    "Total_gift": "$82968.28",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "10/22/2020"
+  },
+  {
+    "cuid": 3881565914,
+    "first_name": "Cody",
+    "last_name": "Pilling",
+    "Total_gift": "$93665.12",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "7/4/2020"
+  },
+  {
+    "cuid": "0213636794",
+    "first_name": "Elijah",
+    "last_name": "Reggio",
+    "Total_gift": "$9090.19",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "9/18/2020"
+  },
+  {
+    "cuid": 3372313836,
+    "first_name": "Aleksandr",
+    "last_name": "Pinkstone",
+    "Total_gift": "$65714.76",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "3/26/2021"
+  },
+  {
+    "cuid": 7765893726,
+    "first_name": "Jermaine",
+    "last_name": "Morratt",
+    "Total_gift": "$29750.42",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "4/19/2020"
+  },
+  {
+    "cuid": 6563036031,
+    "first_name": "Caryn",
+    "last_name": "Blacket",
+    "Total_gift": "$66383.95",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "3/11/2022"
+  },
+  {
+    "cuid": 7723455380,
+    "first_name": "Marcelle",
+    "last_name": "Just",
+    "Total_gift": "$80850.12",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "5/27/2021"
+  },
+  {
+    "cuid": 7389248866,
+    "first_name": "Alick",
+    "last_name": "von Hagt",
+    "Total_gift": "$93447.24",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "4/16/2022"
+  },
+  {
+    "cuid": 4660734250,
+    "first_name": "Dorey",
+    "last_name": "Dykins",
+    "Total_gift": "$61846.76",
+    "Ads_Viewed": 25,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "1/8/2022"
+  },
+  {
+    "cuid": 4049818531,
+    "first_name": "Josh",
+    "last_name": "Tearny",
+    "Total_gift": "$31536.85",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "5/23/2021"
+  },
+  {
+    "cuid": 2809148171,
+    "first_name": "Karen",
+    "last_name": "Chartre",
+    "Total_gift": "$81900.86",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "8/25/2021"
+  },
+  {
+    "cuid": "0884968227",
+    "first_name": "Norene",
+    "last_name": "Bromehead",
+    "Total_gift": "$6753.21",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "10/28/2020"
+  },
+  {
+    "cuid": 5536887688,
+    "first_name": "Emalia",
+    "last_name": "Ilymanov",
+    "Total_gift": "$2049.43",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "9/28/2021"
+  },
+  {
+    "cuid": 5566909930,
+    "first_name": "Mickie",
+    "last_name": "Glanert",
+    "Total_gift": "$96848.11",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "5/8/2021"
+  },
+  {
+    "cuid": 3860242121,
+    "first_name": "Winna",
+    "last_name": "Jencey",
+    "Total_gift": "$58714.20",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "1/17/2021"
+  },
+  {
+    "cuid": 5797103893,
+    "first_name": "Ardyce",
+    "last_name": "Tracey",
+    "Total_gift": "$52926.93",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "10/27/2021"
+  },
+  {
+    "cuid": 2490695800,
+    "first_name": "Melita",
+    "last_name": "Labbe",
+    "Total_gift": "$47390.94",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "1/1/2021"
+  },
+  {
+    "cuid": 2832234615,
+    "first_name": "Even",
+    "last_name": "Powrie",
+    "Total_gift": "$28794.39",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "4/13/2020"
+  },
+  {
+    "cuid": 7747856482,
+    "first_name": "Sonya",
+    "last_name": "Meads",
+    "Total_gift": "$22522.96",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "12/16/2021"
+  },
+  {
+    "cuid": 6255682404,
+    "first_name": "Veronica",
+    "last_name": "Carrington",
+    "Total_gift": "$33290.39",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "9/20/2020"
+  },
+  {
+    "cuid": 9245199355,
+    "first_name": "Gerrilee",
+    "last_name": "Pinnington",
+    "Total_gift": "$8646.33",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "9/23/2020"
+  },
+  {
+    "cuid": 3094987532,
+    "first_name": "Midge",
+    "last_name": "Havelin",
+    "Total_gift": "$74779.25",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "11/13/2020"
+  },
+  {
+    "cuid": 4182650247,
+    "first_name": "Lammond",
+    "last_name": "Pitkaithly",
+    "Total_gift": "$59856.27",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "3/16/2021"
+  },
+  {
+    "cuid": 3962189564,
+    "first_name": "Trista",
+    "last_name": "Kinloch",
+    "Total_gift": "$6994.09",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "12/5/2021"
+  },
+  {
+    "cuid": 9103236307,
+    "first_name": "Evangelia",
+    "last_name": "Bennetto",
+    "Total_gift": "$62865.68",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "1/20/2022"
+  },
+  {
+    "cuid": 4859798570,
+    "first_name": "Laney",
+    "last_name": "Milnthorpe",
+    "Total_gift": "$36342.09",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "12/2/2020"
+  },
+  {
+    "cuid": 4904616499,
+    "first_name": "Lovell",
+    "last_name": "Niesegen",
+    "Total_gift": "$67573.14",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "10/1/2020"
+  },
+  {
+    "cuid": 1877493589,
+    "first_name": "Leighton",
+    "last_name": "MacDavitt",
+    "Total_gift": "$27444.16",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "4/2/2020"
+  },
+  {
+    "cuid": 5233816423,
+    "first_name": "Hadleigh",
+    "last_name": "Phil",
+    "Total_gift": "$74477.39",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "3/3/2022"
+  },
+  {
+    "cuid": "0663317320",
+    "first_name": "Muire",
+    "last_name": "Stallybrass",
+    "Total_gift": "$36050.85",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "5/26/2020"
+  },
+  {
+    "cuid": 1607911000,
+    "first_name": "Yalonda",
+    "last_name": "Mechem",
+    "Total_gift": "$85420.76",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "3/17/2022"
+  },
+  {
+    "cuid": 5683939852,
+    "first_name": "Giuseppe",
+    "last_name": "Paddemore",
+    "Total_gift": "$33503.43",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "12/22/2021"
+  },
+  {
+    "cuid": 4949606638,
+    "first_name": "Quintus",
+    "last_name": "Spensly",
+    "Total_gift": "$76544.99",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "10/26/2021"
+  },
+  {
+    "cuid": 3173165047,
+    "first_name": "Estele",
+    "last_name": "Broose",
+    "Total_gift": "$60251.90",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "5/11/2021"
+  },
+  {
+    "cuid": "0195510372",
+    "first_name": "Dre",
+    "last_name": "Brickett",
+    "Total_gift": "$40491.52",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "12/14/2021"
+  },
+  {
+    "cuid": 5588765818,
+    "first_name": "Sandi",
+    "last_name": "Hercules",
+    "Total_gift": "$55812.07",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "8/19/2020"
+  },
+  {
+    "cuid": 9209902122,
+    "first_name": "Terrill",
+    "last_name": "Leband",
+    "Total_gift": "$70037.95",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "10/4/2021"
+  },
+  {
+    "cuid": 7176647763,
+    "first_name": "Alonso",
+    "last_name": "Simionato",
+    "Total_gift": "$19352.83",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "3/27/2021"
+  },
+  {
+    "cuid": 6380345493,
+    "first_name": "Rafe",
+    "last_name": "Cutten",
+    "Total_gift": "$73349.99",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "2/13/2022"
+  },
+  {
+    "cuid": 3458559779,
+    "first_name": "Fair",
+    "last_name": "Hinchcliffe",
+    "Total_gift": "$83296.72",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "9/26/2020"
+  },
+  {
+    "cuid": 6654046331,
+    "first_name": "Harriott",
+    "last_name": "Buddell",
+    "Total_gift": "$19986.75",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "5/1/2020"
+  },
+  {
+    "cuid": 1952473969,
+    "first_name": "Fax",
+    "last_name": "Curnow",
+    "Total_gift": "$99806.79",
+    "Ads_Viewed": 25,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "7/15/2020"
+  },
+  {
+    "cuid": 3344201972,
+    "first_name": "Creigh",
+    "last_name": "Arents",
+    "Total_gift": "$13974.06",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "9/23/2020"
+  },
+  {
+    "cuid": 7437442256,
+    "first_name": "Kenyon",
+    "last_name": "Scurrell",
+    "Total_gift": "$25475.38",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "5/26/2020"
+  },
+  {
+    "cuid": 2388380103,
+    "first_name": "Winston",
+    "last_name": "Turbefield",
+    "Total_gift": "$7340.01",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "9/12/2021"
+  },
+  {
+    "cuid": 1403538417,
+    "first_name": "Gerik",
+    "last_name": "Thrustle",
+    "Total_gift": "$4121.34",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "12/20/2021"
+  },
+  {
+    "cuid": 1526491982,
+    "first_name": "Jackie",
+    "last_name": "Gasticke",
+    "Total_gift": "$91921.00",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "6/3/2020"
+  },
+  {
+    "cuid": 7195629368,
+    "first_name": "Morissa",
+    "last_name": "Cavan",
+    "Total_gift": "$71150.18",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "2/21/2022"
+  },
+  {
+    "cuid": 4664627203,
+    "first_name": "Reuven",
+    "last_name": "Weatherburn",
+    "Total_gift": "$23843.52",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "7/18/2021"
+  },
+  {
+    "cuid": 5359908831,
+    "first_name": "Devin",
+    "last_name": "Noah",
+    "Total_gift": "$27796.31",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "7/3/2020"
+  },
+  {
+    "cuid": 3755537486,
+    "first_name": "Neddie",
+    "last_name": "Kell",
+    "Total_gift": "$50078.41",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "1/20/2022"
+  },
+  {
+    "cuid": 6664878135,
+    "first_name": "Billie",
+    "last_name": "Hilling",
+    "Total_gift": "$27558.72",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "1/28/2022"
+  },
+  {
+    "cuid": 6719034073,
+    "first_name": "Reagan",
+    "last_name": "Coward",
+    "Total_gift": "$6433.80",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "5/2/2021"
+  },
+  {
+    "cuid": 1458397319,
+    "first_name": "Torin",
+    "last_name": "Gratland",
+    "Total_gift": "$33488.06",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "4/15/2021"
+  },
+  {
+    "cuid": 5075908578,
+    "first_name": "Nyssa",
+    "last_name": "Hurtado",
+    "Total_gift": "$79254.46",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "1/28/2022"
+  },
+  {
+    "cuid": 6933652858,
+    "first_name": "Aveline",
+    "last_name": "Cansdale",
+    "Total_gift": "$53749.81",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "9/18/2021"
+  },
+  {
+    "cuid": 6109277614,
+    "first_name": "Aurora",
+    "last_name": "Khristyukhin",
+    "Total_gift": "$93031.67",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "2/17/2021"
+  },
+  {
+    "cuid": 7089348679,
+    "first_name": "Eliza",
+    "last_name": "Crates",
+    "Total_gift": "$38530.44",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "5/29/2021"
+  },
+  {
+    "cuid": 5630299417,
+    "first_name": "Elvis",
+    "last_name": "Pawellek",
+    "Total_gift": "$15915.24",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "1/11/2021"
+  },
+  {
+    "cuid": 8594164432,
+    "first_name": "Emyle",
+    "last_name": "Danilovich",
+    "Total_gift": "$96931.97",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "12/31/2021"
+  },
+  {
+    "cuid": 2479299171,
+    "first_name": "Darelle",
+    "last_name": "Bussons",
+    "Total_gift": "$21453.25",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "6/19/2021"
+  },
+  {
+    "cuid": 7772519109,
+    "first_name": "Jacklin",
+    "last_name": "Moppett",
+    "Total_gift": "$23995.42",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "12/19/2020"
+  },
+  {
+    "cuid": 7259861983,
+    "first_name": "Karin",
+    "last_name": "Meadowcroft",
+    "Total_gift": "$89555.51",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "12/9/2021"
+  },
+  {
+    "cuid": "0692697411",
+    "first_name": "Harlie",
+    "last_name": "Couper",
+    "Total_gift": "$6333.67",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "6/3/2020"
+  },
+  {
+    "cuid": 5547906123,
+    "first_name": "Mommy",
+    "last_name": "Shipsey",
+    "Total_gift": "$27871.67",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "7/7/2021"
+  },
+  {
+    "cuid": 4206154406,
+    "first_name": "Adah",
+    "last_name": "Josuweit",
+    "Total_gift": "$96650.76",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "4/17/2021"
+  },
+  {
+    "cuid": 1522893261,
+    "first_name": "Field",
+    "last_name": "Blanc",
+    "Total_gift": "$93598.84",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "3/4/2022"
+  },
+  {
+    "cuid": 5935952661,
+    "first_name": "Gar",
+    "last_name": "Jarrel",
+    "Total_gift": "$40710.19",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "4/20/2020"
+  },
+  {
+    "cuid": 3632171289,
+    "first_name": "Benjie",
+    "last_name": "Spenton",
+    "Total_gift": "$82567.57",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "12/13/2021"
+  },
+  {
+    "cuid": 6891958008,
+    "first_name": "Sofia",
+    "last_name": "Lumber",
+    "Total_gift": "$42936.62",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "4/26/2021"
+  },
+  {
+    "cuid": 6023915841,
+    "first_name": "Harbert",
+    "last_name": "Devonald",
+    "Total_gift": "$60788.48",
+    "Ads_Viewed": 25,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "5/5/2020"
+  },
+  {
+    "cuid": 7783822541,
+    "first_name": "Phyllys",
+    "last_name": "Cockings",
+    "Total_gift": "$65924.12",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "5/24/2021"
+  },
+  {
+    "cuid": 3566816043,
+    "first_name": "Crista",
+    "last_name": "Tindall",
+    "Total_gift": "$77563.23",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "5/31/2020"
+  },
+  {
+    "cuid": 8614414943,
+    "first_name": "Woody",
+    "last_name": "Dunston",
+    "Total_gift": "$60039.41",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "10/10/2020"
+  },
+  {
+    "cuid": 7022800146,
+    "first_name": "Alyss",
+    "last_name": "Gillatt",
+    "Total_gift": "$77754.92",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "11/6/2021"
+  },
+  {
+    "cuid": 9586547698,
+    "first_name": "Pall",
+    "last_name": "Tumilson",
+    "Total_gift": "$88403.64",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "12/15/2020"
+  },
+  {
+    "cuid": 3078595048,
+    "first_name": "Emmi",
+    "last_name": "Odd",
+    "Total_gift": "$78954.59",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "9/18/2020"
+  },
+  {
+    "cuid": 4259803751,
+    "first_name": "Leontyne",
+    "last_name": "Vassar",
+    "Total_gift": "$69858.97",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "2/17/2021"
+  },
+  {
+    "cuid": 5225438008,
+    "first_name": "Zachery",
+    "last_name": "Readmire",
+    "Total_gift": "$84265.95",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "10/28/2020"
+  },
+  {
+    "cuid": 7543887762,
+    "first_name": "Emelen",
+    "last_name": "Linacre",
+    "Total_gift": "$45747.35",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "6/20/2021"
+  },
+  {
+    "cuid": 2585794989,
+    "first_name": "Mela",
+    "last_name": "Romagosa",
+    "Total_gift": "$83658.40",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "3/31/2022"
+  },
+  {
+    "cuid": 6591120203,
+    "first_name": "Che",
+    "last_name": "Lukacs",
+    "Total_gift": "$68709.45",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "5/13/2021"
+  },
+  {
+    "cuid": 9200088325,
+    "first_name": "Prudence",
+    "last_name": "Harnwell",
+    "Total_gift": "$67126.36",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "9/8/2020"
+  },
+  {
+    "cuid": 5075066216,
+    "first_name": "Bernhard",
+    "last_name": "holmes",
+    "Total_gift": "$68258.14",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "2/13/2021"
+  },
+  {
+    "cuid": 2814243551,
+    "first_name": "Lilyan",
+    "last_name": "Sisneros",
+    "Total_gift": "$87652.83",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "4/21/2021"
+  },
+  {
+    "cuid": 8697691133,
+    "first_name": "Laura",
+    "last_name": "Blunn",
+    "Total_gift": "$6540.43",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "10/23/2020"
+  },
+  {
+    "cuid": 1019522534,
+    "first_name": "Melesa",
+    "last_name": "Brandino",
+    "Total_gift": "$5671.56",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "8/27/2021"
+  },
+  {
+    "cuid": 8499613721,
+    "first_name": "Gonzales",
+    "last_name": "Kainz",
+    "Total_gift": "$64936.74",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "10/5/2020"
+  },
+  {
+    "cuid": 2274468702,
+    "first_name": "Elbertine",
+    "last_name": "Betts",
+    "Total_gift": "$6487.97",
+    "Ads_Viewed": 8,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "6/16/2021"
+  },
+  {
+    "cuid": 5308044864,
+    "first_name": "Rivkah",
+    "last_name": "Styan",
+    "Total_gift": "$30181.91",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "5/18/2020"
+  },
+  {
+    "cuid": 8600633826,
+    "first_name": "Decca",
+    "last_name": "Lusk",
+    "Total_gift": "$40545.01",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "4/26/2021"
+  },
+  {
+    "cuid": 2517197822,
+    "first_name": "Gwen",
+    "last_name": "Elton",
+    "Total_gift": "$52131.95",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "3/12/2022"
+  },
+  {
+    "cuid": 5662149119,
+    "first_name": "Augusta",
+    "last_name": "Bolwell",
+    "Total_gift": "$61734.95",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "11/16/2020"
+  },
+  {
+    "cuid": 9502014219,
+    "first_name": "Teddie",
+    "last_name": "Sautter",
+    "Total_gift": "$69206.21",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "4/25/2020"
+  },
+  {
+    "cuid": 1253065470,
+    "first_name": "Murvyn",
+    "last_name": "Archbell",
+    "Total_gift": "$85754.59",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 30,
+    "Last_Active_Date": "6/11/2020"
+  },
+  {
+    "cuid": 3564425268,
+    "first_name": "Hunt",
+    "last_name": "Cartmail",
+    "Total_gift": "$75003.74",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "3/25/2022"
+  },
+  {
+    "cuid": 6050801053,
+    "first_name": "Agathe",
+    "last_name": "Rameau",
+    "Total_gift": "$69111.84",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "7/4/2020"
+  },
+  {
+    "cuid": 1231594802,
+    "first_name": "Gerald",
+    "last_name": "Fasson",
+    "Total_gift": "$5564.06",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "2/2/2021"
+  },
+  {
+    "cuid": 5557308261,
+    "first_name": "Amelia",
+    "last_name": "Beavis",
+    "Total_gift": "$42216.41",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "10/12/2021"
+  },
+  {
+    "cuid": 3727391642,
+    "first_name": "Arlyn",
+    "last_name": "Beggs",
+    "Total_gift": "$86776.81",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "5/23/2021"
+  },
+  {
+    "cuid": 5997860639,
+    "first_name": "Cosmo",
+    "last_name": "Venus",
+    "Total_gift": "$74365.35",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "7/10/2021"
+  },
+  {
+    "cuid": "0995597987",
+    "first_name": "Denice",
+    "last_name": "Morecombe",
+    "Total_gift": "$94825.69",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "7/28/2020"
+  },
+  {
+    "cuid": 4060576786,
+    "first_name": "Ernestus",
+    "last_name": "Ashington",
+    "Total_gift": "$12842.20",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "4/18/2020"
+  },
+  {
+    "cuid": 2104206138,
+    "first_name": "Jennine",
+    "last_name": "Hagan",
+    "Total_gift": "$69665.72",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "3/28/2020"
+  },
+  {
+    "cuid": 7320573512,
+    "first_name": "Randolf",
+    "last_name": "Snead",
+    "Total_gift": "$74783.08",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "10/5/2020"
+  },
+  {
+    "cuid": 8572789758,
+    "first_name": "Patten",
+    "last_name": "Kleinhaus",
+    "Total_gift": "$62044.46",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "8/14/2021"
+  },
+  {
+    "cuid": 4382098815,
+    "first_name": "Alyse",
+    "last_name": "Quene",
+    "Total_gift": "$25097.28",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "3/2/2022"
+  },
+  {
+    "cuid": 1611494524,
+    "first_name": "Janeen",
+    "last_name": "Poulton",
+    "Total_gift": "$20160.50",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "8/8/2020"
+  },
+  {
+    "cuid": 7730426668,
+    "first_name": "Gae",
+    "last_name": "Artus",
+    "Total_gift": "$61416.69",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "2/17/2021"
+  },
+  {
+    "cuid": "0085078123",
+    "first_name": "Cristy",
+    "last_name": "Powlesland",
+    "Total_gift": "$78794.53",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "10/30/2021"
+  },
+  {
+    "cuid": "0799163260",
+    "first_name": "Ruthe",
+    "last_name": "Dallmann",
+    "Total_gift": "$2034.70",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "6/16/2021"
+  },
+  {
+    "cuid": 3078763811,
+    "first_name": "Grissel",
+    "last_name": "Portam",
+    "Total_gift": "$5282.79",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "12/9/2020"
+  },
+  {
+    "cuid": 8712967491,
+    "first_name": "Mariya",
+    "last_name": "Sabatier",
+    "Total_gift": "$36340.50",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "1/29/2022"
+  },
+  {
+    "cuid": 3577425695,
+    "first_name": "Aland",
+    "last_name": "Tidy",
+    "Total_gift": "$13946.08",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "4/14/2022"
+  },
+  {
+    "cuid": 8134856144,
+    "first_name": "Luciana",
+    "last_name": "Iskowitz",
+    "Total_gift": "$97214.80",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "11/5/2020"
+  },
+  {
+    "cuid": 5668495450,
+    "first_name": "Karina",
+    "last_name": "Clapton",
+    "Total_gift": "$47814.68",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "10/14/2020"
+  },
+  {
+    "cuid": 8080073945,
+    "first_name": "Ashbey",
+    "last_name": "Streets",
+    "Total_gift": "$92267.81",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "11/4/2020"
+  },
+  {
+    "cuid": 2198028050,
+    "first_name": "Antoni",
+    "last_name": "Kitchingman",
+    "Total_gift": "$25572.49",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "5/27/2021"
+  },
+  {
+    "cuid": 2743751770,
+    "first_name": "Coralie",
+    "last_name": "Cave",
+    "Total_gift": "$40002.24",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "11/8/2020"
+  },
+  {
+    "cuid": "0479308888",
+    "first_name": "Valeria",
+    "last_name": "Nutbeem",
+    "Total_gift": "$53936.42",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "2/13/2021"
+  },
+  {
+    "cuid": 6077498955,
+    "first_name": "Betty",
+    "last_name": "Eloi",
+    "Total_gift": "$43236.14",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "3/3/2021"
+  },
+  {
+    "cuid": 5949017145,
+    "first_name": "Marchelle",
+    "last_name": "Weedon",
+    "Total_gift": "$82231.94",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "2/12/2022"
+  },
+  {
+    "cuid": 1198238747,
+    "first_name": "Evan",
+    "last_name": "Spraberry",
+    "Total_gift": "$44161.85",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "6/30/2021"
+  },
+  {
+    "cuid": 4324348774,
+    "first_name": "Ram",
+    "last_name": "Yitzhak",
+    "Total_gift": "$59132.97",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "11/28/2021"
+  },
+  {
+    "cuid": 4679800100,
+    "first_name": "Lynnelle",
+    "last_name": "Latore",
+    "Total_gift": "$21215.91",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "8/10/2021"
+  },
+  {
+    "cuid": 6001854785,
+    "first_name": "Elene",
+    "last_name": "Clawsley",
+    "Total_gift": "$21741.90",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "6/8/2020"
+  },
+  {
+    "cuid": 6095266165,
+    "first_name": "Aimee",
+    "last_name": "Mournian",
+    "Total_gift": "$42862.58",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "7/4/2021"
+  },
+  {
+    "cuid": 2681946441,
+    "first_name": "Lane",
+    "last_name": "Gully",
+    "Total_gift": "$68860.36",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "4/10/2022"
+  },
+  {
+    "cuid": 8030547803,
+    "first_name": "Cinderella",
+    "last_name": "Ison",
+    "Total_gift": "$95300.96",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "12/23/2021"
+  },
+  {
+    "cuid": "0911493255",
+    "first_name": "Jannelle",
+    "last_name": "Cockhill",
+    "Total_gift": "$22063.87",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "12/18/2020"
+  },
+  {
+    "cuid": "0771513909",
+    "first_name": "Brena",
+    "last_name": "Zanussii",
+    "Total_gift": "$41689.01",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "7/12/2021"
+  },
+  {
+    "cuid": 6820020686,
+    "first_name": "Minni",
+    "last_name": "Wilsdon",
+    "Total_gift": "$60888.83",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "1/19/2022"
+  },
+  {
+    "cuid": 4933774900,
+    "first_name": "Isidora",
+    "last_name": "Buckles",
+    "Total_gift": "$56762.43",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "11/7/2020"
+  },
+  {
+    "cuid": 7432689121,
+    "first_name": "Trent",
+    "last_name": "Deware",
+    "Total_gift": "$73588.56",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "1/31/2022"
+  },
+  {
+    "cuid": 1368958133,
+    "first_name": "Veradis",
+    "last_name": "Coatts",
+    "Total_gift": "$86655.52",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "2/10/2022"
+  },
+  {
+    "cuid": 5925829549,
+    "first_name": "Dayle",
+    "last_name": "Wybern",
+    "Total_gift": "$9540.84",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "11/21/2021"
+  },
+  {
+    "cuid": 3849109461,
+    "first_name": "Elora",
+    "last_name": "Fransman",
+    "Total_gift": "$3577.47",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "12/21/2021"
+  },
+  {
+    "cuid": 9290889284,
+    "first_name": "Leslie",
+    "last_name": "Burstow",
+    "Total_gift": "$38153.74",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "7/20/2021"
+  },
+  {
+    "cuid": "0800666305",
+    "first_name": "Darill",
+    "last_name": "Poate",
+    "Total_gift": "$11782.88",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "2/8/2022"
+  },
+  {
+    "cuid": 5861237964,
+    "first_name": "Lucille",
+    "last_name": "Castello",
+    "Total_gift": "$27306.15",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "7/8/2020"
+  },
+  {
+    "cuid": 3232017029,
+    "first_name": "Farlie",
+    "last_name": "Poser",
+    "Total_gift": "$57603.11",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "4/12/2022"
+  },
+  {
+    "cuid": 2593234865,
+    "first_name": "Giusto",
+    "last_name": "Glenfield",
+    "Total_gift": "$15563.04",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 25,
+    "Last_Active_Date": "7/14/2020"
+  },
+  {
+    "cuid": "0874205158",
+    "first_name": "Gaye",
+    "last_name": "Smees",
+    "Total_gift": "$62241.29",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "8/10/2021"
+  },
+  {
+    "cuid": "0041882733",
+    "first_name": "Berton",
+    "last_name": "Lowndes",
+    "Total_gift": "$2575.30",
+    "Ads_Viewed": 3,
+    "Number_of_Actions": 25,
+    "Last_Active_Date": "10/23/2021"
+  },
+  {
+    "cuid": "0097314587",
+    "first_name": "Kevina",
+    "last_name": "Pallatina",
+    "Total_gift": "$11126.12",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 14,
+    "Last_Active_Date": "12/22/2020"
+  },
+  {
+    "cuid": 8180171604,
+    "first_name": "Grier",
+    "last_name": "Strainge",
+    "Total_gift": "$77185.27",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "6/13/2021"
+  },
+  {
+    "cuid": 5758613401,
+    "first_name": "Raul",
+    "last_name": "Batman",
+    "Total_gift": "$51231.29",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "6/16/2020"
+  },
+  {
+    "cuid": 6639810670,
+    "first_name": "Jerad",
+    "last_name": "Stanner",
+    "Total_gift": "$12618.83",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "9/14/2020"
+  },
+  {
+    "cuid": 3654705731,
+    "first_name": "Dorrie",
+    "last_name": "Sinnie",
+    "Total_gift": "$22259.57",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "7/22/2021"
+  },
+  {
+    "cuid": 5322047786,
+    "first_name": "Vassili",
+    "last_name": "Ubank",
+    "Total_gift": "$13832.09",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "4/14/2022"
+  },
+  {
+    "cuid": 2644587859,
+    "first_name": "Lynsey",
+    "last_name": "Qualtro",
+    "Total_gift": "$46681.74",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "9/15/2021"
+  },
+  {
+    "cuid": 6765190244,
+    "first_name": "Karie",
+    "last_name": "Mazzey",
+    "Total_gift": "$58620.43",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "4/14/2021"
+  },
+  {
+    "cuid": 7936553800,
+    "first_name": "Chane",
+    "last_name": "Hentzer",
+    "Total_gift": "$19888.50",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "10/15/2020"
+  },
+  {
+    "cuid": 6484921245,
+    "first_name": "Dana",
+    "last_name": "Empson",
+    "Total_gift": "$96948.98",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "12/26/2021"
+  },
+  {
+    "cuid": 7939926330,
+    "first_name": "Carver",
+    "last_name": "Fahrenbach",
+    "Total_gift": "$10487.65",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "10/17/2021"
+  },
+  {
+    "cuid": 5897922586,
+    "first_name": "Zacharia",
+    "last_name": "Kliesl",
+    "Total_gift": "$75521.92",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "8/7/2020"
+  },
+  {
+    "cuid": 4593247969,
+    "first_name": "Neilla",
+    "last_name": "Carlisi",
+    "Total_gift": "$49218.90",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "5/28/2021"
+  },
+  {
+    "cuid": 3780342170,
+    "first_name": "Tomasine",
+    "last_name": "Fender",
+    "Total_gift": "$55201.00",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "10/17/2020"
+  },
+  {
+    "cuid": 4537357088,
+    "first_name": "Wilhelm",
+    "last_name": "Clifft",
+    "Total_gift": "$83024.89",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "12/13/2021"
+  },
+  {
+    "cuid": 3361422221,
+    "first_name": "Roscoe",
+    "last_name": "Pozzi",
+    "Total_gift": "$32243.35",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "4/2/2022"
+  },
+  {
+    "cuid": 7662498980,
+    "first_name": "Desmond",
+    "last_name": "Allard",
+    "Total_gift": "$38622.56",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "6/17/2020"
+  },
+  {
+    "cuid": 9849083999,
+    "first_name": "Dulcea",
+    "last_name": "Sommer",
+    "Total_gift": "$45325.55",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "7/5/2020"
+  },
+  {
+    "cuid": "0920738249",
+    "first_name": "Hyacinthe",
+    "last_name": "Domesday",
+    "Total_gift": "$25509.08",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "11/29/2021"
+  },
+  {
+    "cuid": 1367263050,
+    "first_name": "Rem",
+    "last_name": "Roglieri",
+    "Total_gift": "$91735.55",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "8/31/2020"
+  },
+  {
+    "cuid": 3068942691,
+    "first_name": "Wendye",
+    "last_name": "Glen",
+    "Total_gift": "$5774.86",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "2/19/2022"
+  },
+  {
+    "cuid": 7598777977,
+    "first_name": "Carmelina",
+    "last_name": "Attoc",
+    "Total_gift": "$54860.51",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "1/27/2021"
+  },
+  {
+    "cuid": "0790062798",
+    "first_name": "Victor",
+    "last_name": "Wodeland",
+    "Total_gift": "$61635.60",
+    "Ads_Viewed": 25,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "4/28/2021"
+  },
+  {
+    "cuid": 5808756081,
+    "first_name": "Holden",
+    "last_name": "O' Dooley",
+    "Total_gift": "$40225.55",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "3/18/2021"
+  },
+  {
+    "cuid": 7561887108,
+    "first_name": "Antonina",
+    "last_name": "Hewkin",
+    "Total_gift": "$37471.76",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "6/19/2020"
+  },
+  {
+    "cuid": 6938165963,
+    "first_name": "Henrie",
+    "last_name": "Rudgard",
+    "Total_gift": "$19788.13",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "11/27/2021"
+  },
+  {
+    "cuid": "0397766041",
+    "first_name": "Bellanca",
+    "last_name": "Brounfield",
+    "Total_gift": "$3174.41",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "9/6/2020"
+  },
+  {
+    "cuid": 5130552466,
+    "first_name": "Mitch",
+    "last_name": "Merriton",
+    "Total_gift": "$87337.01",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "8/2/2021"
+  },
+  {
+    "cuid": 6027144009,
+    "first_name": "Clarie",
+    "last_name": "Oxford",
+    "Total_gift": "$15480.09",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "11/18/2020"
+  },
+  {
+    "cuid": 9644038460,
+    "first_name": "Rasla",
+    "last_name": "Belbin",
+    "Total_gift": "$74502.72",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "10/7/2021"
+  },
+  {
+    "cuid": 1059869004,
+    "first_name": "Bobby",
+    "last_name": "Griffitt",
+    "Total_gift": "$40418.18",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "9/9/2020"
+  },
+  {
+    "cuid": 9222899393,
+    "first_name": "Theodor",
+    "last_name": "Schottli",
+    "Total_gift": "$26502.60",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "1/15/2021"
+  },
+  {
+    "cuid": 7843997970,
+    "first_name": "Missy",
+    "last_name": "Peeke-Vout",
+    "Total_gift": "$75799.10",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "2/17/2021"
+  },
+  {
+    "cuid": 1627452982,
+    "first_name": "Lanie",
+    "last_name": "Christoffe",
+    "Total_gift": "$78192.62",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "9/29/2020"
+  },
+  {
+    "cuid": 1303868814,
+    "first_name": "Beatrix",
+    "last_name": "Salterne",
+    "Total_gift": "$22830.57",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "7/14/2020"
+  },
+  {
+    "cuid": 6684914498,
+    "first_name": "Wilone",
+    "last_name": "Tidcombe",
+    "Total_gift": "$37884.36",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "2/27/2022"
+  },
+  {
+    "cuid": 2053664045,
+    "first_name": "Odetta",
+    "last_name": "Westrip",
+    "Total_gift": "$77284.77",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "9/18/2021"
+  },
+  {
+    "cuid": "0120134446",
+    "first_name": "Pauletta",
+    "last_name": "Eby",
+    "Total_gift": "$91059.61",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "4/14/2022"
+  },
+  {
+    "cuid": 3684760269,
+    "first_name": "Winni",
+    "last_name": "Landor",
+    "Total_gift": "$55525.70",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "12/4/2021"
+  },
+  {
+    "cuid": 8902171817,
+    "first_name": "Valentine",
+    "last_name": "Bussen",
+    "Total_gift": "$25427.05",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "8/13/2020"
+  },
+  {
+    "cuid": 9429226029,
+    "first_name": "Suellen",
+    "last_name": "Cersey",
+    "Total_gift": "$83964.76",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "11/24/2020"
+  },
+  {
+    "cuid": 5096975460,
+    "first_name": "Marvin",
+    "last_name": "Eddoes",
+    "Total_gift": "$37233.68",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "8/8/2020"
+  },
+  {
+    "cuid": 5507645043,
+    "first_name": "Tawsha",
+    "last_name": "Joselin",
+    "Total_gift": "$85306.13",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "2/25/2021"
+  },
+  {
+    "cuid": 9525755940,
+    "first_name": "Billy",
+    "last_name": "Drinkel",
+    "Total_gift": "$10666.32",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "10/23/2021"
+  },
+  {
+    "cuid": 1702298698,
+    "first_name": "Norina",
+    "last_name": "Naylor",
+    "Total_gift": "$74315.24",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "12/10/2021"
+  },
+  {
+    "cuid": 6492654307,
+    "first_name": "Piotr",
+    "last_name": "Darkin",
+    "Total_gift": "$56967.72",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "12/8/2021"
+  },
+  {
+    "cuid": 7217933811,
+    "first_name": "Lauri",
+    "last_name": "Anslow",
+    "Total_gift": "$20398.30",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "5/30/2020"
+  },
+  {
+    "cuid": 7915388061,
+    "first_name": "Carma",
+    "last_name": "Gittens",
+    "Total_gift": "$44678.83",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "11/3/2021"
+  },
+  {
+    "cuid": 7841800029,
+    "first_name": "Salmon",
+    "last_name": "Ruggieri",
+    "Total_gift": "$93691.55",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "4/18/2021"
+  },
+  {
+    "cuid": 6474581638,
+    "first_name": "Godwin",
+    "last_name": "Arnull",
+    "Total_gift": "$33689.48",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "1/9/2022"
+  },
+  {
+    "cuid": 3570854833,
+    "first_name": "Trixi",
+    "last_name": "Attreed",
+    "Total_gift": "$72605.65",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "10/13/2020"
+  },
+  {
+    "cuid": 7458644672,
+    "first_name": "Ynez",
+    "last_name": "Trevance",
+    "Total_gift": "$15685.86",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "11/2/2020"
+  },
+  {
+    "cuid": "0106034030",
+    "first_name": "Simonette",
+    "last_name": "McIndoe",
+    "Total_gift": "$5699.66",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "2/17/2021"
+  },
+  {
+    "cuid": 9466372572,
+    "first_name": "Shelden",
+    "last_name": "Waghorn",
+    "Total_gift": "$42933.82",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "7/27/2021"
+  },
+  {
+    "cuid": 8514917781,
+    "first_name": "Anthia",
+    "last_name": "Clubley",
+    "Total_gift": "$25968.11",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "8/14/2021"
+  },
+  {
+    "cuid": 9550963438,
+    "first_name": "Bradan",
+    "last_name": "Crutcher",
+    "Total_gift": "$79165.92",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "10/28/2020"
+  },
+  {
+    "cuid": 3878148232,
+    "first_name": "Rem",
+    "last_name": "Snowden",
+    "Total_gift": "$99925.76",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "9/2/2020"
+  },
+  {
+    "cuid": 9657446635,
+    "first_name": "Antonino",
+    "last_name": "Bugg",
+    "Total_gift": "$33616.95",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "9/22/2021"
+  },
+  {
+    "cuid": 1161807691,
+    "first_name": "Romain",
+    "last_name": "Sellstrom",
+    "Total_gift": "$74521.64",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "9/19/2021"
+  },
+  {
+    "cuid": 8048615614,
+    "first_name": "Bernita",
+    "last_name": "Melluish",
+    "Total_gift": "$90664.94",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "7/30/2020"
+  },
+  {
+    "cuid": 1174643315,
+    "first_name": "Osborne",
+    "last_name": "Drinkall",
+    "Total_gift": "$5531.21",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "8/13/2021"
+  },
+  {
+    "cuid": 9854546942,
+    "first_name": "Jasper",
+    "last_name": "Crolly",
+    "Total_gift": "$6732.48",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "7/31/2021"
+  },
+  {
+    "cuid": 6794296179,
+    "first_name": "Odele",
+    "last_name": "Carlens",
+    "Total_gift": "$56273.14",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "9/16/2020"
+  },
+  {
+    "cuid": 2157536116,
+    "first_name": "El",
+    "last_name": "Switland",
+    "Total_gift": "$75149.22",
+    "Ads_Viewed": 41,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "8/21/2021"
+  },
+  {
+    "cuid": 4735907785,
+    "first_name": "Margit",
+    "last_name": "Amis",
+    "Total_gift": "$24074.01",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "12/20/2021"
+  },
+  {
+    "cuid": 3750416567,
+    "first_name": "Bessy",
+    "last_name": "Starkie",
+    "Total_gift": "$23225.12",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "1/30/2022"
+  },
+  {
+    "cuid": 7510447437,
+    "first_name": "Darb",
+    "last_name": "Michele",
+    "Total_gift": "$6849.42",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 40,
+    "Last_Active_Date": "3/12/2022"
+  },
+  {
+    "cuid": 5624795106,
+    "first_name": "Zelma",
+    "last_name": "Madgwich",
+    "Total_gift": "$84074.51",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "7/14/2020"
+  },
+  {
+    "cuid": 7128204482,
+    "first_name": "Hubey",
+    "last_name": "Heasley",
+    "Total_gift": "$29770.38",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "4/4/2020"
+  },
+  {
+    "cuid": 4499164184,
+    "first_name": "Peder",
+    "last_name": "Heasley",
+    "Total_gift": "$50161.64",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "1/8/2021"
+  },
+  {
+    "cuid": "0875550479",
+    "first_name": "Alexandrina",
+    "last_name": "Doreward",
+    "Total_gift": "$17607.12",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "3/28/2021"
+  },
+  {
+    "cuid": "0203052277",
+    "first_name": "Vassily",
+    "last_name": "Searl",
+    "Total_gift": "$32772.37",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "8/23/2020"
+  },
+  {
+    "cuid": 7282411158,
+    "first_name": "Ray",
+    "last_name": "Bairnsfather",
+    "Total_gift": "$63855.66",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 23,
+    "Last_Active_Date": "11/30/2021"
+  },
+  {
+    "cuid": 5750305937,
+    "first_name": "Ichabod",
+    "last_name": "Cratere",
+    "Total_gift": "$27184.92",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "10/22/2021"
+  },
+  {
+    "cuid": 2613858923,
+    "first_name": "Luigi",
+    "last_name": "Lyvon",
+    "Total_gift": "$99638.39",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "11/24/2021"
+  },
+  {
+    "cuid": 9228383666,
+    "first_name": "Tommy",
+    "last_name": "Agerskow",
+    "Total_gift": "$24637.78",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "11/18/2020"
+  },
+  {
+    "cuid": 4957580758,
+    "first_name": "Adamo",
+    "last_name": "Normanvell",
+    "Total_gift": "$27267.03",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "7/6/2020"
+  },
+  {
+    "cuid": 8829054399,
+    "first_name": "Sherry",
+    "last_name": "Kinsella",
+    "Total_gift": "$55331.35",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "4/14/2021"
+  },
+  {
+    "cuid": 2879691729,
+    "first_name": "Veronique",
+    "last_name": "Linzey",
+    "Total_gift": "$18105.79",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "1/17/2022"
+  },
+  {
+    "cuid": 5947617730,
+    "first_name": "Hildagard",
+    "last_name": "Tinan",
+    "Total_gift": "$96139.13",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "3/6/2022"
+  },
+  {
+    "cuid": 7549910448,
+    "first_name": "Chrisy",
+    "last_name": "Pogue",
+    "Total_gift": "$30517.68",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "12/10/2021"
+  },
+  {
+    "cuid": 6287626771,
+    "first_name": "Gardner",
+    "last_name": "Turfus",
+    "Total_gift": "$14467.43",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "4/8/2020"
+  },
+  {
+    "cuid": 7160178297,
+    "first_name": "Giraud",
+    "last_name": "D'Orsay",
+    "Total_gift": "$9903.66",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "6/29/2021"
+  },
+  {
+    "cuid": 7782914191,
+    "first_name": "Pepe",
+    "last_name": "Dows",
+    "Total_gift": "$45137.20",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "5/31/2021"
+  },
+  {
+    "cuid": 6477696835,
+    "first_name": "Grier",
+    "last_name": "Stranaghan",
+    "Total_gift": "$29096.69",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "1/16/2021"
+  },
+  {
+    "cuid": 8488678878,
+    "first_name": "Nicol",
+    "last_name": "Jonah",
+    "Total_gift": "$27276.89",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "7/31/2020"
+  },
+  {
+    "cuid": 4346403441,
+    "first_name": "Rorke",
+    "last_name": "Reckus",
+    "Total_gift": "$76532.06",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 46,
+    "Last_Active_Date": "5/19/2020"
+  },
+  {
+    "cuid": 9315286812,
+    "first_name": "Yalonda",
+    "last_name": "Elmes",
+    "Total_gift": "$97890.33",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "9/8/2021"
+  },
+  {
+    "cuid": 3242743172,
+    "first_name": "Adele",
+    "last_name": "Blowen",
+    "Total_gift": "$45131.83",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "3/30/2022"
+  },
+  {
+    "cuid": 1823722318,
+    "first_name": "Adamo",
+    "last_name": "Barstow",
+    "Total_gift": "$10083.98",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "10/15/2020"
+  },
+  {
+    "cuid": 5929984727,
+    "first_name": "Fredrika",
+    "last_name": "Pipe",
+    "Total_gift": "$56264.26",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "5/30/2020"
+  },
+  {
+    "cuid": 7028803473,
+    "first_name": "Jami",
+    "last_name": "Fehner",
+    "Total_gift": "$93511.95",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "2/26/2022"
+  },
+  {
+    "cuid": 5684180256,
+    "first_name": "Shina",
+    "last_name": "Briddock",
+    "Total_gift": "$96095.58",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "3/19/2021"
+  },
+  {
+    "cuid": 2747136175,
+    "first_name": "Olva",
+    "last_name": "Hardware",
+    "Total_gift": "$32572.44",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "4/10/2022"
+  },
+  {
+    "cuid": 6656165044,
+    "first_name": "Benoite",
+    "last_name": "Clelland",
+    "Total_gift": "$86563.83",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "8/19/2021"
+  },
+  {
+    "cuid": 8649775780,
+    "first_name": "Weylin",
+    "last_name": "Drife",
+    "Total_gift": "$81926.20",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "11/1/2020"
+  },
+  {
+    "cuid": 1374755389,
+    "first_name": "Neil",
+    "last_name": "Trahar",
+    "Total_gift": "$52757.87",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "2/13/2021"
+  },
+  {
+    "cuid": 3653000114,
+    "first_name": "Ardath",
+    "last_name": "Tallant",
+    "Total_gift": "$50311.36",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "7/18/2021"
+  },
+  {
+    "cuid": "0822903601",
+    "first_name": "Ashla",
+    "last_name": "Renard",
+    "Total_gift": "$18118.16",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "5/3/2021"
+  },
+  {
+    "cuid": 6285752303,
+    "first_name": "Jaymee",
+    "last_name": "Coghlin",
+    "Total_gift": "$82013.86",
+    "Ads_Viewed": 22,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "10/13/2020"
+  },
+  {
+    "cuid": 4261590913,
+    "first_name": "Quintana",
+    "last_name": "Pacheco",
+    "Total_gift": "$98364.64",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "2/13/2021"
+  },
+  {
+    "cuid": 4698298199,
+    "first_name": "Alanna",
+    "last_name": "Gumbrell",
+    "Total_gift": "$98293.60",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "4/24/2021"
+  },
+  {
+    "cuid": 3630990320,
+    "first_name": "Sindee",
+    "last_name": "Haysham",
+    "Total_gift": "$41077.26",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "6/10/2021"
+  },
+  {
+    "cuid": 3760435874,
+    "first_name": "Mercy",
+    "last_name": "Rolingson",
+    "Total_gift": "$29879.18",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "5/28/2020"
+  },
+  {
+    "cuid": 1400020255,
+    "first_name": "Modesty",
+    "last_name": "Jayes",
+    "Total_gift": "$29771.75",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 48,
+    "Last_Active_Date": "3/1/2022"
+  },
+  {
+    "cuid": 7332319934,
+    "first_name": "Armstrong",
+    "last_name": "Pizey",
+    "Total_gift": "$85989.90",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "6/12/2021"
+  },
+  {
+    "cuid": "0574413804",
+    "first_name": "Shea",
+    "last_name": "Loalday",
+    "Total_gift": "$49291.97",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 15,
+    "Last_Active_Date": "3/12/2021"
+  },
+  {
+    "cuid": 9208333787,
+    "first_name": "Aldo",
+    "last_name": "Crosen",
+    "Total_gift": "$76196.22",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "9/18/2020"
+  },
+  {
+    "cuid": 5392061176,
+    "first_name": "Oswald",
+    "last_name": "Siehard",
+    "Total_gift": "$59056.32",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 28,
+    "Last_Active_Date": "7/24/2021"
+  },
+  {
+    "cuid": 5995544691,
+    "first_name": "Sibby",
+    "last_name": "Pacquet",
+    "Total_gift": "$46493.28",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "8/12/2020"
+  },
+  {
+    "cuid": 8615558914,
+    "first_name": "Murray",
+    "last_name": "McIlraith",
+    "Total_gift": "$54365.38",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "4/6/2020"
+  },
+  {
+    "cuid": 2635957797,
+    "first_name": "Blakeley",
+    "last_name": "Chagg",
+    "Total_gift": "$97222.15",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "12/2/2020"
+  },
+  {
+    "cuid": 1421165384,
+    "first_name": "Ermin",
+    "last_name": "Wooff",
+    "Total_gift": "$68229.59",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "5/2/2021"
+  },
+  {
+    "cuid": 7170104199,
+    "first_name": "Janelle",
+    "last_name": "Krook",
+    "Total_gift": "$2279.86",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "6/20/2021"
+  },
+  {
+    "cuid": 9115941264,
+    "first_name": "Nollie",
+    "last_name": "Kettlestringes",
+    "Total_gift": "$19409.71",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "12/16/2021"
+  },
+  {
+    "cuid": 1569733147,
+    "first_name": "Jacinta",
+    "last_name": "Checchetelli",
+    "Total_gift": "$30250.61",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "4/10/2022"
+  },
+  {
+    "cuid": "0407785345",
+    "first_name": "Carmel",
+    "last_name": "Rany",
+    "Total_gift": "$62340.62",
+    "Ads_Viewed": 3,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "3/7/2022"
+  },
+  {
+    "cuid": 8403623038,
+    "first_name": "Jolee",
+    "last_name": "Coggell",
+    "Total_gift": "$88483.58",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "1/31/2021"
+  },
+  {
+    "cuid": 4589139197,
+    "first_name": "Quintin",
+    "last_name": "Deehan",
+    "Total_gift": "$17296.57",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "3/6/2021"
+  },
+  {
+    "cuid": 7075841270,
+    "first_name": "Guthrie",
+    "last_name": "MacCoughan",
+    "Total_gift": "$57673.31",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "9/8/2021"
+  },
+  {
+    "cuid": 1255512784,
+    "first_name": "Blondie",
+    "last_name": "Goshawke",
+    "Total_gift": "$62234.99",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 8,
+    "Last_Active_Date": "8/12/2021"
+  },
+  {
+    "cuid": 2031237535,
+    "first_name": "Henry",
+    "last_name": "Van Arsdall",
+    "Total_gift": "$64614.47",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "7/21/2021"
+  },
+  {
+    "cuid": 8697741300,
+    "first_name": "Amitie",
+    "last_name": "Butrimovich",
+    "Total_gift": "$39398.06",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 41,
+    "Last_Active_Date": "10/4/2020"
+  },
+  {
+    "cuid": 6622312834,
+    "first_name": "Jayme",
+    "last_name": "Beaby",
+    "Total_gift": "$79501.68",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 20,
+    "Last_Active_Date": "5/4/2021"
+  },
+  {
+    "cuid": 8434124513,
+    "first_name": "Colline",
+    "last_name": "Stoyles",
+    "Total_gift": "$83465.43",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "3/25/2022"
+  },
+  {
+    "cuid": 5442073229,
+    "first_name": "Bobine",
+    "last_name": "Cours",
+    "Total_gift": "$15057.83",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "8/10/2020"
+  },
+  {
+    "cuid": 9554691750,
+    "first_name": "Broderic",
+    "last_name": "Colcomb",
+    "Total_gift": "$14809.74",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "11/18/2020"
+  },
+  {
+    "cuid": 4702712578,
+    "first_name": "Jeffy",
+    "last_name": "Taffarello",
+    "Total_gift": "$83877.87",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "5/7/2021"
+  },
+  {
+    "cuid": 8571014221,
+    "first_name": "Lind",
+    "last_name": "Candwell",
+    "Total_gift": "$55372.09",
+    "Ads_Viewed": 47,
+    "Number_of_Actions": 11,
+    "Last_Active_Date": "2/20/2022"
+  },
+  {
+    "cuid": 5967240500,
+    "first_name": "Saleem",
+    "last_name": "Skoggings",
+    "Total_gift": "$50308.73",
+    "Ads_Viewed": 45,
+    "Number_of_Actions": 3,
+    "Last_Active_Date": "9/3/2020"
+  },
+  {
+    "cuid": 2766771247,
+    "first_name": "Josy",
+    "last_name": "Cumberlidge",
+    "Total_gift": "$66000.36",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "9/22/2021"
+  },
+  {
+    "cuid": 8534214425,
+    "first_name": "Jule",
+    "last_name": "Jacketts",
+    "Total_gift": "$95491.32",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "3/14/2022"
+  },
+  {
+    "cuid": 7867363408,
+    "first_name": "Waring",
+    "last_name": "Matteoli",
+    "Total_gift": "$1351.65",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "1/31/2021"
+  },
+  {
+    "cuid": 7892743278,
+    "first_name": "Goran",
+    "last_name": "Alwen",
+    "Total_gift": "$52823.03",
+    "Ads_Viewed": 29,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "7/24/2020"
+  },
+  {
+    "cuid": 3719412490,
+    "first_name": "Amandy",
+    "last_name": "Ruegg",
+    "Total_gift": "$44996.76",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "11/8/2021"
+  },
+  {
+    "cuid": 6373403726,
+    "first_name": "Templeton",
+    "last_name": "Ottee",
+    "Total_gift": "$37835.94",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "12/22/2021"
+  },
+  {
+    "cuid": 9515815029,
+    "first_name": "Barney",
+    "last_name": "Crissil",
+    "Total_gift": "$7882.38",
+    "Ads_Viewed": 10,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "1/27/2021"
+  },
+  {
+    "cuid": 3228342743,
+    "first_name": "Catlee",
+    "last_name": "Pilgrim",
+    "Total_gift": "$63177.91",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "6/3/2021"
+  },
+  {
+    "cuid": 8427666969,
+    "first_name": "Maggy",
+    "last_name": "Kirman",
+    "Total_gift": "$76059.59",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "7/24/2021"
+  },
+  {
+    "cuid": 1383976945,
+    "first_name": "Joya",
+    "last_name": "Dorwood",
+    "Total_gift": "$69456.30",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "4/18/2021"
+  },
+  {
+    "cuid": 5229928018,
+    "first_name": "Harold",
+    "last_name": "MacCorley",
+    "Total_gift": "$14253.23",
+    "Ads_Viewed": 23,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "10/1/2020"
+  },
+  {
+    "cuid": "0193499266",
+    "first_name": "Rubia",
+    "last_name": "Bousfield",
+    "Total_gift": "$901.05",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "4/6/2021"
+  },
+  {
+    "cuid": 4327447706,
+    "first_name": "Fina",
+    "last_name": "Swarbrigg",
+    "Total_gift": "$86996.21",
+    "Ads_Viewed": 24,
+    "Number_of_Actions": 44,
+    "Last_Active_Date": "8/27/2021"
+  },
+  {
+    "cuid": 5601937087,
+    "first_name": "Josias",
+    "last_name": "Coggon",
+    "Total_gift": "$11065.14",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "10/19/2021"
+  },
+  {
+    "cuid": 2284334962,
+    "first_name": "Erda",
+    "last_name": "Arber",
+    "Total_gift": "$43905.97",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 24,
+    "Last_Active_Date": "4/21/2021"
+  },
+  {
+    "cuid": 5917693943,
+    "first_name": "Darla",
+    "last_name": "Kinchley",
+    "Total_gift": "$25059.52",
+    "Ads_Viewed": 37,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "5/30/2020"
+  },
+  {
+    "cuid": 6793747614,
+    "first_name": "Xaviera",
+    "last_name": "Tredwell",
+    "Total_gift": "$72801.58",
+    "Ads_Viewed": 40,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "4/4/2021"
+  },
+  {
+    "cuid": 6659054812,
+    "first_name": "Mathias",
+    "last_name": "Gianulli",
+    "Total_gift": "$43013.30",
+    "Ads_Viewed": 2,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "4/5/2021"
+  },
+  {
+    "cuid": 9971193272,
+    "first_name": "Quentin",
+    "last_name": "Girardi",
+    "Total_gift": "$39252.89",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "7/15/2021"
+  },
+  {
+    "cuid": 4231715831,
+    "first_name": "Lucia",
+    "last_name": "Algeo",
+    "Total_gift": "$84149.81",
+    "Ads_Viewed": 4,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "4/16/2021"
+  },
+  {
+    "cuid": 9368292159,
+    "first_name": "Kordula",
+    "last_name": "Brickwood",
+    "Total_gift": "$79871.15",
+    "Ads_Viewed": 5,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "2/28/2021"
+  },
+  {
+    "cuid": 8318718488,
+    "first_name": "Truman",
+    "last_name": "Mulqueeny",
+    "Total_gift": "$28019.59",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 12,
+    "Last_Active_Date": "12/31/2021"
+  },
+  {
+    "cuid": 3116845891,
+    "first_name": "Abel",
+    "last_name": "Ayce",
+    "Total_gift": "$96209.40",
+    "Ads_Viewed": 14,
+    "Number_of_Actions": 43,
+    "Last_Active_Date": "3/24/2020"
+  },
+  {
+    "cuid": 5339623416,
+    "first_name": "Robinette",
+    "last_name": "Rosenblatt",
+    "Total_gift": "$32452.60",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 45,
+    "Last_Active_Date": "12/13/2020"
+  },
+  {
+    "cuid": 1637211848,
+    "first_name": "Nicolette",
+    "last_name": "Snadden",
+    "Total_gift": "$75402.08",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "12/3/2020"
+  },
+  {
+    "cuid": 8325669055,
+    "first_name": "Kaitlin",
+    "last_name": "MacGrath",
+    "Total_gift": "$62049.26",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "6/24/2020"
+  },
+  {
+    "cuid": 9307762430,
+    "first_name": "Atalanta",
+    "last_name": "Moncarr",
+    "Total_gift": "$89408.07",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 34,
+    "Last_Active_Date": "9/13/2020"
+  },
+  {
+    "cuid": 9252336885,
+    "first_name": "Kelvin",
+    "last_name": "Bulstrode",
+    "Total_gift": "$24100.76",
+    "Ads_Viewed": 31,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "7/8/2020"
+  },
+  {
+    "cuid": "0301819173",
+    "first_name": "Tailor",
+    "last_name": "Bradick",
+    "Total_gift": "$97042.56",
+    "Ads_Viewed": 42,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "1/12/2022"
+  },
+  {
+    "cuid": 6653626237,
+    "first_name": "Grange",
+    "last_name": "Coxon",
+    "Total_gift": "$26899.21",
+    "Ads_Viewed": 6,
+    "Number_of_Actions": 38,
+    "Last_Active_Date": "7/13/2021"
+  },
+  {
+    "cuid": 5798651150,
+    "first_name": "Marsiella",
+    "last_name": "Vant",
+    "Total_gift": "$17333.98",
+    "Ads_Viewed": 46,
+    "Number_of_Actions": 13,
+    "Last_Active_Date": "3/7/2022"
+  },
+  {
+    "cuid": 1134009917,
+    "first_name": "Lannie",
+    "last_name": "Preshaw",
+    "Total_gift": "$76886.50",
+    "Ads_Viewed": 9,
+    "Number_of_Actions": 49,
+    "Last_Active_Date": "10/11/2020"
+  },
+  {
+    "cuid": 6829877490,
+    "first_name": "Susanetta",
+    "last_name": "Gierok",
+    "Total_gift": "$56487.52",
+    "Ads_Viewed": 44,
+    "Number_of_Actions": 50,
+    "Last_Active_Date": "11/21/2021"
+  },
+  {
+    "cuid": 7144240218,
+    "first_name": "Brittan",
+    "last_name": "Eble",
+    "Total_gift": "$88271.01",
+    "Ads_Viewed": 33,
+    "Number_of_Actions": 35,
+    "Last_Active_Date": "8/17/2020"
+  },
+  {
+    "cuid": "0142199478",
+    "first_name": "Pace",
+    "last_name": "Ledster",
+    "Total_gift": "$93625.03",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "12/14/2021"
+  },
+  {
+    "cuid": 1259108376,
+    "first_name": "Liane",
+    "last_name": "Capron",
+    "Total_gift": "$17927.87",
+    "Ads_Viewed": 27,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "2/28/2021"
+  },
+  {
+    "cuid": 4421890014,
+    "first_name": "Patrice",
+    "last_name": "Reace",
+    "Total_gift": "$81176.22",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 16,
+    "Last_Active_Date": "9/9/2021"
+  },
+  {
+    "cuid": 1520010826,
+    "first_name": "Jackson",
+    "last_name": "Mc Ilory",
+    "Total_gift": "$93181.27",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "2/18/2021"
+  },
+  {
+    "cuid": 4758790124,
+    "first_name": "Axel",
+    "last_name": "Tibbles",
+    "Total_gift": "$77729.29",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "5/29/2021"
+  },
+  {
+    "cuid": 9828657775,
+    "first_name": "Hedvig",
+    "last_name": "Lukianov",
+    "Total_gift": "$40459.04",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "6/13/2021"
+  },
+  {
+    "cuid": 1623982960,
+    "first_name": "Farlee",
+    "last_name": "Semechik",
+    "Total_gift": "$5372.56",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "3/27/2021"
+  },
+  {
+    "cuid": 5626146881,
+    "first_name": "Chanda",
+    "last_name": "Fynan",
+    "Total_gift": "$42959.72",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "4/16/2020"
+  },
+  {
+    "cuid": 5531039832,
+    "first_name": "Augusto",
+    "last_name": "Lidington",
+    "Total_gift": "$33020.96",
+    "Ads_Viewed": 48,
+    "Number_of_Actions": 33,
+    "Last_Active_Date": "11/5/2021"
+  },
+  {
+    "cuid": 2100833936,
+    "first_name": "Jarad",
+    "last_name": "Hansel",
+    "Total_gift": "$14849.38",
+    "Ads_Viewed": 1,
+    "Number_of_Actions": 7,
+    "Last_Active_Date": "6/11/2020"
+  },
+  {
+    "cuid": 7482296182,
+    "first_name": "Giorgi",
+    "last_name": "Wilcock",
+    "Total_gift": "$52334.55",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 31,
+    "Last_Active_Date": "7/20/2020"
+  },
+  {
+    "cuid": 9117383315,
+    "first_name": "Rosana",
+    "last_name": "Feben",
+    "Total_gift": "$14663.34",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "6/19/2020"
+  },
+  {
+    "cuid": 6826440482,
+    "first_name": "Marlin",
+    "last_name": "Enrietto",
+    "Total_gift": "$91878.74",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 6,
+    "Last_Active_Date": "11/1/2020"
+  },
+  {
+    "cuid": 3274443948,
+    "first_name": "Loria",
+    "last_name": "Josef",
+    "Total_gift": "$89365.48",
+    "Ads_Viewed": 11,
+    "Number_of_Actions": 37,
+    "Last_Active_Date": "9/30/2020"
+  },
+  {
+    "cuid": 4505981746,
+    "first_name": "Caresse",
+    "last_name": "Sandhill",
+    "Total_gift": "$64064.32",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 36,
+    "Last_Active_Date": "3/25/2022"
+  },
+  {
+    "cuid": 3232834221,
+    "first_name": "Nick",
+    "last_name": "Ord",
+    "Total_gift": "$2187.25",
+    "Ads_Viewed": 8,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "10/8/2021"
+  },
+  {
+    "cuid": 9423542514,
+    "first_name": "Melantha",
+    "last_name": "Gerdes",
+    "Total_gift": "$39551.64",
+    "Ads_Viewed": 34,
+    "Number_of_Actions": 2,
+    "Last_Active_Date": "9/14/2021"
+  },
+  {
+    "cuid": 7384864968,
+    "first_name": "Alysa",
+    "last_name": "O'Neill",
+    "Total_gift": "$93128.36",
+    "Ads_Viewed": 39,
+    "Number_of_Actions": 22,
+    "Last_Active_Date": "9/23/2020"
+  },
+  {
+    "cuid": 4354837242,
+    "first_name": "Noe",
+    "last_name": "Aronowicz",
+    "Total_gift": "$55808.36",
+    "Ads_Viewed": 15,
+    "Number_of_Actions": 32,
+    "Last_Active_Date": "10/4/2020"
+  },
+  {
+    "cuid": 4752446170,
+    "first_name": "Eba",
+    "last_name": "Birkenhead",
+    "Total_gift": "$39608.11",
+    "Ads_Viewed": 32,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "1/9/2021"
+  },
+  {
+    "cuid": 9724183807,
+    "first_name": "Isabella",
+    "last_name": "Bigland",
+    "Total_gift": "$25199.36",
+    "Ads_Viewed": 12,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "10/12/2020"
+  },
+  {
+    "cuid": 8929662846,
+    "first_name": "Sileas",
+    "last_name": "Capitano",
+    "Total_gift": "$54981.21",
+    "Ads_Viewed": 16,
+    "Number_of_Actions": 1,
+    "Last_Active_Date": "9/2/2021"
+  },
+  {
+    "cuid": 7677774512,
+    "first_name": "Adolf",
+    "last_name": "Attreed",
+    "Total_gift": "$49103.60",
+    "Ads_Viewed": 8,
+    "Number_of_Actions": 19,
+    "Last_Active_Date": "9/23/2020"
+  },
+  {
+    "cuid": 7204929357,
+    "first_name": "Filmer",
+    "last_name": "Inkle",
+    "Total_gift": "$17188.59",
+    "Ads_Viewed": 8,
+    "Number_of_Actions": 21,
+    "Last_Active_Date": "1/31/2022"
+  },
+  {
+    "cuid": 5634450497,
+    "first_name": "Ricoriki",
+    "last_name": "Wloch",
+    "Total_gift": "$11573.62",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 47,
+    "Last_Active_Date": "2/14/2021"
+  },
+  {
+    "cuid": 3009095708,
+    "first_name": "Lyndsie",
+    "last_name": "Trowsdale",
+    "Total_gift": "$24087.68",
+    "Ads_Viewed": 21,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "11/11/2020"
+  },
+  {
+    "cuid": 6037648417,
+    "first_name": "Tara",
+    "last_name": "Penk",
+    "Total_gift": "$72348.43",
+    "Ads_Viewed": 50,
+    "Number_of_Actions": 39,
+    "Last_Active_Date": "6/15/2021"
+  },
+  {
+    "cuid": "0204769744",
+    "first_name": "Malia",
+    "last_name": "Hyatt",
+    "Total_gift": "$57021.06",
+    "Ads_Viewed": 7,
+    "Number_of_Actions": 4,
+    "Last_Active_Date": "10/28/2020"
+  },
+  {
+    "cuid": 7150585558,
+    "first_name": "Melody",
+    "last_name": "Gwinnell",
+    "Total_gift": "$95344.43",
+    "Ads_Viewed": 38,
+    "Number_of_Actions": 17,
+    "Last_Active_Date": "9/29/2021"
+  },
+  {
+    "cuid": 3733838092,
+    "first_name": "Janos",
+    "last_name": "Dinsey",
+    "Total_gift": "$88646.96",
+    "Ads_Viewed": 19,
+    "Number_of_Actions": 9,
+    "Last_Active_Date": "12/2/2021"
+  },
+  {
+    "cuid": 1670334627,
+    "first_name": "Maryellen",
+    "last_name": "Busfield",
+    "Total_gift": "$30248.57",
+    "Ads_Viewed": 49,
+    "Number_of_Actions": 42,
+    "Last_Active_Date": "8/17/2020"
+  },
+  {
+    "cuid": 5796657526,
+    "first_name": "Mitchael",
+    "last_name": "Boughtwood",
+    "Total_gift": "$70335.52",
+    "Ads_Viewed": 13,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "10/11/2021"
+  },
+  {
+    "cuid": 1393334334,
+    "first_name": "Emera",
+    "last_name": "Crampin",
+    "Total_gift": "$87841.56",
+    "Ads_Viewed": 43,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "5/7/2021"
+  },
+  {
+    "cuid": 4836591732,
+    "first_name": "Benson",
+    "last_name": "Lowde",
+    "Total_gift": "$74387.99",
+    "Ads_Viewed": 18,
+    "Number_of_Actions": 27,
+    "Last_Active_Date": "6/30/2021"
+  },
+  {
+    "cuid": 6021018656,
+    "first_name": "Jana",
+    "last_name": "Itzkovici",
+    "Total_gift": "$89983.97",
+    "Ads_Viewed": 26,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "7/27/2020"
+  },
+  {
+    "cuid": 7524790759,
+    "first_name": "Joya",
+    "last_name": "Melendez",
+    "Total_gift": "$69845.39",
+    "Ads_Viewed": 17,
+    "Number_of_Actions": 29,
+    "Last_Active_Date": "7/23/2021"
+  },
+  {
+    "cuid": 6479448979,
+    "first_name": "Vinny",
+    "last_name": "Barbery",
+    "Total_gift": "$13492.94",
+    "Ads_Viewed": 28,
+    "Number_of_Actions": 25,
+    "Last_Active_Date": "7/22/2020"
+  },
+  {
+    "cuid": 6288482005,
+    "first_name": "Tim",
+    "last_name": "Wooles",
+    "Total_gift": "$82992.07",
+    "Ads_Viewed": 35,
+    "Number_of_Actions": 26,
+    "Last_Active_Date": "12/9/2021"
+  },
+  {
+    "cuid": "0994147627",
+    "first_name": "Niko",
+    "last_name": "Western",
+    "Total_gift": "$82168.63",
+    "Ads_Viewed": 30,
+    "Number_of_Actions": 5,
+    "Last_Active_Date": "6/25/2021"
+  },
+  {
+    "cuid": 5965644671,
+    "first_name": "Lolly",
+    "last_name": "Wall",
+    "Total_gift": "$50970.52",
+    "Ads_Viewed": 20,
+    "Number_of_Actions": 18,
+    "Last_Active_Date": "10/11/2021"
+  },
+  {
+    "cuid": 1817168827,
+    "first_name": "Tammie",
+    "last_name": "Marrian",
+    "Total_gift": "$75858.60",
+    "Ads_Viewed": 36,
+    "Number_of_Actions": 10,
+    "Last_Active_Date": "10/6/2020"
+  }
+]

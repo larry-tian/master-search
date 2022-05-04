@@ -1,0 +1,30 @@
+{
+    "allActivityLabels" : [
+        "2022-04-01", "2022-04-02", "2022-04-03", "2022-04-04", "2022-04-05", "2022-04-06", "2022-04-07", "2022-04-08"
+    ],
+    "allActivityData" : [
+        {
+            "label": "Transaction",
+            "data": [3, 0, 8, 4, 4, 5, 6, 8],
+            "borderColor": "#EF767A"
+          },
+  
+          {
+            "label": "Visit",
+            "data": [2, 2, 0, 0, 0, 7, 2, 9],
+            "borderColor": "#456990"
+          },
+  
+          {
+              "label": "Ad Interaction",
+              "data": [1, 6, 2, 0, 0, 4, 3, 2],
+              "borderColor": "#49BEAA"
+          },
+  
+          {
+              "label": "Sends",
+              "data": [1, 1, 0, 3, 0, 5, 6, 7],
+              "borderColor": "#EEB868"
+          }
+    ]
+}

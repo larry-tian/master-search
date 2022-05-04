@@ -1,0 +1,44 @@
+/* Team Info */
+.team-info {
+    margin-top: 3rem;
+    background-color: #F7F8F9;
+    margin-left: -10rem;
+    margin-right: -10rem;
+    overflow: hidden;
+    padding-bottom: 3rem;
+
+}
+
+.meet-team-title {
+    color: #059CAF;
+    letter-spacing: 0.05rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+.team-member {
+    text-align: center;
+    justify-content: center;;
+}
+
+.about-content {
+    margin-top: 3rem;
+}
+.about-subtitle {
+    color: #059CAF;
+    letter-spacing: 0.05rem;
+}
+
+.feature-img {
+    height:25rem;
+    width: 50rem;
+}
+
+.team-img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 2rem;
+}
+
+.team-member-name {
+    margin-top: 2rem;
+}

@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Loading from './pages/Loading'
 import Result from './pages/Result'
 import Profile from './pages/Profile'
+import About from './pages/About'
 
 import './css/App.css'
 
@@ -26,8 +27,9 @@ const App = () => {
             <Route exact path="/loading" element={<Loading/>}/>
             <Route exact path="/result" element={<Result/>}/>
             <Route exact path="/profile" element={<Profile/>}/>
+            <Route exact path="/about" element={<About/>}/>
           </Routes>
-          </div>
+        </div>
 
           {/* Import Bootstrap */}
           <link 
@@ -36,7 +38,6 @@ const App = () => {
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
             crossOrigin="anonymous" 
           />
-
       </Router>
   );
 }

@@ -1,0 +1,15 @@
+.footer-content {
+    height: 8rem;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.link {
+    color: #0485BC;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: #7F8E9E;
+}

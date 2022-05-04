@@ -1,16 +1,17 @@
 import React, { useState, useEffect, useLayoutEffect} from 'react';
 
-import { useNavigate, useLocation } from 'react-router-dom';
+import Footer from './Footer'
+import { useNavigate, useLocation, Link } from 'react-router-dom';
 
-import backButton from '../img/backButton.svg'
-import menuButton from '../img/menuButton.svg'
-import pageIcon from '../img/page_icon.svg'
-import statsIcon from '../img/stats_icon.svg'
-import moneyIcon from '../img/money_icon.svg'
+// Chart.js
+import { Line, Doughnut, Bar } from "react-chartjs-2";
+import { Chart, registerables } from 'chart.js';
 
-import visualizationImg from '../img/visualization.png'
-import importantEventImg from '../img/importantEvent.png'
-import tableImg from '../img/table.png'
+// Material UI
+import InputLabel from '@mui/material/InputLabel';
+import MenuItem from '@mui/material/MenuItem';
+import FormControl from '@mui/material/FormControl';
+import Select from '@mui/material/Select';
 
 import '../css/Profile.css';
 
@@ -18,26 +19,59 @@ const Profile = () => {
 
     // States
     const [summaryData, setSummaryData] = React.useState(null);
-    const [allTransactionData, setAllTransactionData] = React.useState(null);
-    const [importantEventsData, setImportantEventsData] = React.useState(null);
     const [allEventsData, setAllEventsData] = React.useState(null);
+    const [visData, setVisData] = React.useState(null);
     const [isLoading, setLoading] = React.useState(true);
 
     // Import fake data
     const fetchData = () => {
-        setSummaryData(require('../data/outputs_176211_summarystats.json'));
-        setAllEventsData(require('../data/outputs_176211_allEvents.json'));
-        setLoading(false);
+        const url = 'https://capstone.masterworks.cloud/v1/appdata/events?cuid=' + data.CUID;
+        const eventSummaryUrl = 'https://capstone.masterworks.cloud/v1/appdata/eventsummary?filter[cuid]=' + data.CUID;
+        const visUrl = 'https://capstone.masterworks.cloud/v1/events/visualization'
+
+        fetch(url)
+            .then((response) => response.json())
+            .then((actualData) => {
+                setAllEventsData(actualData);
+                setLoading(false);
+
+            })
+            .catch((err) => {
+                console.log(err.message);
+            });
+
+        fetch(eventSummaryUrl)
+            .then((response) => response.json())
+            .then((actualData) => {
+                setSummaryData(actualData);
+            })
+            .catch((err) => {
+                console.log(err.message);
+            });
+
+
+        fetch(visUrl)
+            .then((response) => response.json())
+            .then((actualData) => {
+                setVisData(actualData);
+            })
+            .catch((err) => {
+                console.log(err.message);
+            });
+
+        // setSummaryData(require('../data/outputs_176211_summarystats.json'));
+        // setVisData(require('../data/fakeVis.json'));
+        // Fetch the data and sort every events by time 
+        // setAllEventsData(require('../data/outputs_176211_allEvents.json'));
     }
 
-    const location = useLocation()
-    const { data } = location.state
 
-    const navigate = useNavigate();
+    // Set up chart.js
+    Chart.register(...registerables);
 
-    const directResult = () => {
-        navigate('/result');
-    }
+    const location = useLocation()    
+    const data = location.state.data
+    const org = location.state.org
 
     useEffect(() => {
         fetchData();
@@ -48,16 +82,30 @@ const Profile = () => {
     });
 
 
+    // Function to determined what kind of event type it is 
+    const checkEventType = (eventID) => {
+        if (eventID == 1) {
+            return "Transaction";
+        } else if (eventID == 2) {
+            return "Visit"
+        } else if (eventID == 3) {
+            return "Ad Interaction"
+        } else if (eventID == 4) {
+            return "Send"
+        }
+    }
+
+    console.log(summaryData)
     let eventsTable;
+
     if (isLoading) {
-        eventsTable = <div>
-            <p>Loading</p>
-        </div>
+        eventsTable = <p className="center">Sorry, we couldn't find any interaction history from this user...</p>
     } else {
         eventsTable = allEventsData.map((item, index)=>{
             return (
                 <tr key={index}>
                     <td>{item.Action}</td>
+                    <td>{checkEventType(item.EventType)}</td>
                     <td>{item.EventTime}</td>
                     <td>{item.Channel}</td>
                     <td>{item.Platform}</td>
@@ -65,109 +113,107 @@ const Profile = () => {
             )
         })
     }
+    
+    // Decide which visualization to display 
+    let visualizationDisplay;
+    // Check if we have all the events data or not 
+    if (visData != null) {
+        var allActivityLabels = visData.allActivityLabels
 
+        var allActivityData = visData.allActivityData
+
+        var visualizationData = {
+            labels: allActivityLabels,
+            datasets: allActivityData
+        };
+
+        visualizationDisplay = <Line data = {visualizationData} />
+    }
+
+    // Summary Content 
+    let summaryContent;
+    if (summaryData != null) {
+        summaryContent =  <div className="summary-cards">
+        <div className="summary-card">
+            <img src="https://capstone.masterworks.cloud/img/page_icon.svg" className="summary-card-icon"/>
+            <p className="summary-card-title"><strong>Opened {summaryData[0].openEmail} emails</strong></p>
+            <p className="summary-card-desc"><strong>out of {summaryData[0].emailSent} emails we sent</strong></p>
+        </div>
+
+        <div className="summary-card">
+            <img  src="https://capstone.masterworks.cloud/img/money_icon.svg" className="summary-card-icon"/>
+            <p className="summary-card-title"><strong>Gifted {summaryData[0].giftAmount} dollars</strong></p>
+            <p className="summary-card-desc"><strong>out of {summaryData[0].visitAmount} visits</strong></p>
+        </div>
+
+        <div className="summary-card">
+            <img src="https://capstone.masterworks.cloud/img/money_icon.svg" className="summary-card-icon"/>
+            <p className="summary-card-title"><strong>Had {summaryData[0].transactionAmount} transactions</strong></p>
+            <p className="summary-card-desc"><strong>after every {summaryData[0].avgInteractionBeforeTransaction} interactions on average</strong></p>
+        </div>
+
+        <div className="summary-card">
+            <img src="https://capstone.masterworks.cloud/img/page_icon.svg"  className="summary-card-icon"/>
+            <p className="summary-card-title"><strong>Interacted {summaryData[0].adInteractionAmount} ads</strong></p>
+            <p className="summary-card-desc"><strong>out of {summaryData[0].adSent} ads we sent</strong></p>
+        </div>
+    </div>
+
+    }
     return (
         <div>            
             {/* Title Section */}
             <div className="profile-title">
                 {/* Back button */}
                 <div className="back-button-content">
-                    <button className="back-button" onClick={directResult}>
-                            <img src={backButton} className="back-button-icon"/>
+                    <Link to="/result" state={{ org: org }}>
+                        <button className="back-button">
+                            <img src="https://capstone.masterworks.cloud/img/backButton.svg" className="back-button-icon"/>
                             <p className="back-title"><strong>Back to result</strong></p>
-                    </button>
+                        </button>
+                    </Link>
                 </div>
 
-
                 {/* Titles */}
-                <h1 className="heading-one mt-4"><strong> {data.first_name + " " + data.last_name} </strong></h1>
-                <p className="heading-small-title"><strong> {data.CUID}  | {data.email} </strong></p>
+                <h1 className="heading-one mt-4"><strong> {data.FullName} </strong></h1>
+                <p className="heading-small-title mt-3"><strong> LAST ACTIVE DATE: {data.LastActive} </strong></p>
             </div>
 
             {/* Profile Content */}
-            <div className="profile-content-background">
+            <div className="profile-content-background pb-5">
                 <div className="profile-content-row">
-                    <div className="profile-sidebar">
-                        <ul className="profile-sidebar-ul">
-                            <li className="profile-sidebar-list">
-                                <a><span className="profile-sidebar-text"><strong>Summary</strong></span></a>
-                            </li>
-                            <li className="profile-sidebar-list">
-                                <a><span className="profile-sidebar-text"><strong>Visualizations</strong></span></a>
-                            </li>
-                            <li className="profile-sidebar-list">
-                                <a><span className="profile-sidebar-text"><strong>Timeline</strong></span></a>
-                            </li>
-                            <li className="profile-sidebar-list">
-                                <a><span className="profile-sidebar-text"><strong>History</strong></span></a>
-                            </li>
-                        </ul>
-                    </div>
-
-
                     <div className="profile-information">
                         {/* Summary */}
-                        <h2 className="profile-information-title">Summary</h2>
-                        <p className="profile-information-subtitle">This donor in this month has:</p>
-
-                        <div className="summary-cards">
-                            <div className="summary-card">
-                                <img src={pageIcon} className="summary-card-icon"/>
-                                <p className="summary-card-title"><strong>Sent 7 emails</strong></p>
-                                <p className="summary-card-desc"><strong>25% increase from previous month</strong></p>
-                            </div>
-
-                            <div className="summary-card">
-                                <img src={statsIcon} className="summary-card-icon"/>
-                                <p className="summary-card-title"><strong>Saw 8 banner eds</strong></p>
-                                <p className="summary-card-desc"><strong>35% increase from previous month</strong></p>
-                            </div>
-
-                            <div className="summary-card">
-                                <img src={statsIcon} className="summary-card-icon"/>
-                                <p className="summary-card-title"><strong>Gifted 10 times</strong></p>
-                                <p className="summary-card-desc"><strong>54% increase from previous month</strong></p>
-                            </div>
-
-                            <div className="summary-card">
-                                <img src={moneyIcon} className="summary-card-icon"/>
-                                <p className="summary-card-title"><strong>Gifted 7000 dollars</strong></p>
-                                <p className="summary-card-desc"><strong>17% increase from previous mont</strong>h</p>
-                            </div>
-                        </div>
-
+                        <h2 className="profile-information-title">Summary</h2>                            
+                        <p className="profile-information-subtitle mt-3">This user has:</p>
+                        {summaryContent}
                         <hr className="profile-information-line"/>
 
                         {/* Visualizations */}
                         <h2 className="profile-information-title">Visualizations</h2>
-                        <p className="profile-information-subtitle">Here are visualizations of all significant interactions that occurred this month:</p>
-
-                        <img src={visualizationImg} className="placeholder-img"/>
-
-                        <hr className="profile-information-line"/>
-
-                        {/* Timeline */}
-                        <h2 className="profile-information-title">Important Timeline</h2>
-                        <p className="profile-information-subtitle">This is what happened right before this donor made the first gift:</p>
-
-                        <img src={importantEventImg} className="placeholder-img"/>
+                        <p className="profile-information-subtitle">Here is a visualization of this user's all activities: </p>
+                        
+                        <div className="profile-visualization">
+                            {visualizationDisplay}
+                        </div>
 
                         <hr className="profile-information-line"/>
 
                         {/* Full Interaction History */}
                         <h2 className="profile-information-title">Full Interaction History</h2>
-                        <p className="profile-information-subtitle">Here is a list of all the interaction this donor had with SeattleTeam:</p>
+                        <p className="profile-information-subtitle">Here is a list of all the interactions this donor had:</p>
 
                         {/* Adding Table here */}
-                        <div className="container">
+                        <div className="container table-container">
                             <div className="scrollable">
                                 <table className="table table-striped">
                                     <thead>
                                         <tr>
-                                            <th>Event</th>
+                                            <th>Action</th>
+                                            <th>Event Type</th>
                                             <th>Time</th>
-                                            <th>Source</th>
-                                            <th>Detail</th>
+                                            <th>Channel</th>
+                                            <th>Platform</th>
                                         </tr>
                                     </thead>
                                     <tbody className="overflow-scroll" style={{ maxWidth: "260px" }}>
@@ -181,6 +227,7 @@ const Profile = () => {
 
                 </div>
             </div>
+            <Footer />
         </div>
     )
 }

@@ -1,0 +1,321 @@
+// import React, { useState, useEffect, useLayoutEffect } from 'react';
+
+// import { useNavigate, useLocation, Link } from 'react-router-dom';
+
+// import Loading from './Loading'
+
+
+// // Material UI
+// import InputLabel from '@mui/material/InputLabel';
+// import MenuItem from '@mui/material/MenuItem';
+// import FormControl from '@mui/material/FormControl';
+// import Select from '@mui/material/Select';
+
+// import backButton from '../img/backButton.svg'
+// import menuButton from '../img/menuButton.svg'
+
+// import '../css/Result.css';
+
+// const Result = () => {
+
+//     // States
+//     const [data, setData] = React.useState(null);
+//     const [sortType, setSortType] = React.useState('first_name'); // test JASON
+//     const [dataFetch, setDataFetch] = React.useState(false);
+//     const [searchUser, setSearchUser] = React.useState(false);
+//     const [sortBy, setSortBy] = React.useState('');
+//     const [time, setTime] = React.useState('');
+//     const [result, setResult] = React.useState('');
+//     const [loadingResult, setLoadingResult] = React.useState(true);
+//     const [listData, setListData] = React.useState(null);
+
+//     // Store the organization's ID
+//     const location = useLocation()
+//     const { org } = location.state
+
+//     let orgInfo = "";
+//     if (listData != null) {
+//         orgInfo = listData.filter(each => each.ClientCode == org)[0]
+//     }
+
+//     // Handle Changes
+//     const handleSortByChange = (event) => {
+//         setSortBy(event.target.value);
+//     };
+
+//     const handleTimeChange = (event) => {
+//         setTime(event.target.value);
+//     }
+
+//     const handleResultChange = (event) => {
+//         setResult(event.target.value);
+//     }
+
+//     console.log(sortType);
+
+//     // // // JASON -- sort int columns -- JASON
+//     // const sortArray = () => {
+//     //     console.log(sortType);
+//     //     console.log('function started');
+//     //     // const types = {
+//     //     //     name: 'first_name' + ' ' + 'last_name',
+//     //     //     total_gift: 'Total_gift',
+//     //     //     ads_viewed: 'Ads_Viewed',
+//     //     //     actions: 'Number_of_Actions',
+//     //     //     last_active: 'Last_Active_Date',
+//     //     // };
+//     //     // const sortProperty = types[sortType];
+//     //     // console.log(sortProperty);
+//     //     const sorted = data.sort((a, b) => b[sortType] - a[sortType]);
+//     //     console.log(data[0][sortType]);
+//     //     console.log(sorted);
+//     //     setData(sorted);
+//     // };
+
+//     // if / else in the sort 
+//     // If (sortType == “Ads_Viewed) { 
+//     //     Sort things by integer
+//     // }
+//     // Else if (sortType == “first_name) {
+//     //     Sort everything by character/strings
+//     // }
+//     // ELSE if 
+//     // JS function DATE to convert into date
+
+
+//     // Import fake data
+//     const fetchData = () => {
+//         setData(require('../data/new_fake_outputs_people_list.json'));
+//         setDataFetch(true);
+//         setListData(require('../data/outputs_clientlookup.json'));
+//         // Fake data loading
+//         setTimeout(() => { setLoadingResult(false); }, 1500);
+//     }
+
+//     if (data != null) {
+//         if (sortType == "Ads_Viewed") {
+//             data.sort((a, b) => b[sortType] - a[sortType]);
+//         } else if (sortType == "Number_of_Actions") {
+//             data.sort((a, b) => b[sortType] - a[sortType]);
+//         } else if (sortType == "first_name") {
+//             data.sort((a,b) => a[sortType].localeCompare(b[sortType]));
+//         } else if (sortType == "Total_gift") {
+//             data.sort((a,b) => parseFloat(a[sortType].slice(1)) - parseFloat(b[sortType].slice(1)));
+//         } else if (sortType == "Last_Active_Date") {
+//             data.sort((a,b) => Date.parse(b[sortType]) - Date.parse(a[sortType]));
+//         } 
+//         console.log(data);
+//     }
+
+//     const navigate = useNavigate();
+
+//     const directHome = () => {
+//         navigate('/');
+//     }
+
+//     useEffect(() => {
+//         fetchData();
+//     }, []);
+
+//     // test
+//     // useEffect(() => {
+//     //     fetchData();
+//     //     console.log(data);
+//     //     const sortArray = type => {
+//     //         const types = {
+//     //             name: 'first_name' + ' ' + 'last_name',
+//     //             total_gift: 'Total_gift',
+//     //             ads_viewed: 'Ads_Viewed',
+//     //             actions: 'Number_of_Actions',
+//     //             last_active: 'Last_Active_Date',
+//     //         };
+//     //         const sortProperty = types[type];
+//     //         const sorted = data.sort((a, b) => b[sortProperty] - a[sortProperty]);
+//     //         console.log(sorted);
+//     //         setData(sorted);
+//     //     };
+
+//     //     sortArray(sortType);
+//     // }, [sortType]);
+
+//     useLayoutEffect(() => {
+//         window.scrollTo(0, 0)
+//     });
+
+//     let resultContent;
+
+//     if (dataFetch == true) {
+
+//         resultContent = data.map((item, key) => {
+//             return <div key={key}>
+
+//                 {/* Pass in CUID as state to generate profile */}
+//                 <Link className="link-to-profile" to="/profile" state={{ data: item, org: org }}>
+//                     <div className="result-card-item">
+//                         <p className="result-card-item-name"><strong className="result-card-item-name-text">{item.first_name + " " + item.last_name}</strong></p>
+
+//                         <div className="result-card-item-space">&nbsp;</div>
+
+//                         <p className="result-card-item-data"><strong className="result-card-item-data-text">{item.Total_gift}</strong></p>
+//                         <div className="result-card-item-data"><strong className="result-card-item-data-text">{item.Ads_Viewed}</strong></div>
+//                         <div className="result-card-item-data"><strong className="result-card-item-data-text">{item.Number_of_Actions}</strong></div>
+//                         <div className="result-card-item-data"><strong className="result-card-item-data-text">{item.Last_Active_Date}</strong></div>
+//                         <img src={menuButton} className="result-card-menu-button" />
+//                     </div>
+//                 </Link>
+//             </div>;
+
+//         });
+//     } else {
+
+//         resultContent = <div>
+//             <p>Sorry, we didn't find anything :(</p>
+//         </div>
+
+//     }
+
+//     // Placeholder
+//     let searchUserContent =
+//         <div className="mb-3">&nbsp;</div>;
+
+//     // if (searchUser == true) {
+//     //     searchUserContent = <div className="search-user-content">
+//     //         <input type="radio" name="searchType" id="name" value="name" className="search-user-radio"/>
+//     //         <label for="name" className="search-user-label">Name</label>
+
+//     //         <input type="radio" name="searchType" id="email" value="email" className="search-user-radio"/>
+//     //         <label for="email" className="search-user-label">Email</label>
+
+//     //         <input type="radio" name="searchType" id="cuid" value="cuid" className="search-user-radio"/>
+//     //         <label for="cuid" className="search-user-label">CUID</label>
+//     //     </div>
+//     // } else {
+//     //     searchUserContent = 
+//     //     <button className="search-for-user-button" onClick={changeToSearchUser}><strong className="search-user-button-text">Search for a specific user</strong></button>
+//     // }
+
+//     let content;
+//     if (loadingResult) {
+//         content = <Loading />
+//     } else {
+//         content = <div>
+//             {/* Title Section */}
+//             <div className="result-title">
+
+//                 <select
+//                     // onChange={(event) => setSortType(event.target.value), sortArray(sortType)}>
+//                     onChange = {function (event) {
+//                     setSortType(event.target.value); 
+//                     }}>
+//                     {/* onChange={handleSortByChangeTwo}> */}
+//                     <option value="first_name" default>name</option>
+//                     <option value="Total_gift">gift amount</option>
+//                     <option value="Ads_Viewed">ads viewed</option>
+//                     <option value="Number_of_Actions"># of actions</option>
+//                     <option value="Last_Active_Date">last active</option>
+//                 </select>
+
+//                 {/* Back button */}
+//                 <div className="back-button-content">
+//                     <button className="back-button" onClick={directHome}>
+//                         <img src={backButton} className="back-button-icon" />
+//                         <p className="back-title"><strong>Select another organization</strong></p>
+//                     </button>
+//                 </div>
+
+//                 {/* Titles */}
+//                 <h1 className="heading-one mt-4"><strong>{orgInfo.ClientName}</strong></h1>
+//                 <p className="heading-small-title"><strong>{data.length} USER(S) FOUND</strong></p>
+
+//                 {/* Search a specific user */}
+//                 {searchUserContent}
+
+//                 {/* Filter UIs */}
+//                 <div className="filter-ui-row row">
+
+//                     <p className='filter-ui-desc'>TIME:</p>
+
+//                     {/* Selection box for Sort By */}
+//                     <FormControl sx={{ m: 1, minWidth: 160 }} size="small">
+//                         <InputLabel id="demo-simple-select-label">Sort By</InputLabel>
+//                         <Select
+//                             labelId="demo-simple-select-label"
+//                             id="demo-simple-select"
+//                             value={sortBy}
+//                             label="Sort By"
+//                             onChange={handleSortByChange}
+//                         >
+//                             <MenuItem value={"all"}>All Users</MenuItem>
+//                             <MenuItem value={"gift"}>Gift Amount</MenuItem>
+//                             <MenuItem value={"ads"}>Ads Viewed</MenuItem>
+//                             <MenuItem value={"active"}>Last Active</MenuItem>
+//                         </Select>
+//                     </FormControl>
+
+//                     {/* Selection box for Time */}
+//                     <FormControl sx={{ m: 1, minWidth: 160 }} size="small">
+//                         <InputLabel id="demo-simple-select-label">Time</InputLabel>
+//                         <Select
+//                             labelId="demo-simple-select-label"
+//                             id="demo-simple-select"
+//                             value={time}
+//                             label="Time"
+//                             onChange={handleTimeChange}
+//                         >
+//                             <MenuItem value={"all"}>All Results</MenuItem>
+//                             <MenuItem value={"lastweek"}>Last Week</MenuItem>
+//                             <MenuItem value={"last30"}>Last 30 Days</MenuItem>
+//                             <MenuItem value={"lastyear"}>Last Year</MenuItem>
+//                         </Select>
+//                     </FormControl>
+
+//                     {/* Selection box for Result */}
+//                     <FormControl sx={{ m: 1, minWidth: 160 }} size="small">
+//                         <InputLabel id="demo-simple-select-label">Result</InputLabel>
+//                         <Select
+//                             labelId="demo-simple-select-label"
+//                             id="demo-simple-select"
+//                             value={result}
+//                             label="Result"
+//                             onChange={handleResultChange}
+//                         >
+//                             <MenuItem value={"lastweek"}>All results</MenuItem>
+//                             <MenuItem value={"last30"}>Top 10 results</MenuItem>
+//                             <MenuItem value={"lastyear"}>Top 50 results</MenuItem>
+//                             <MenuItem value={"lastyear"}>Top 100 results</MenuItem>
+
+//                         </Select>
+//                     </FormControl>
+
+//                     {/* Button to submit filter */}
+//                     <button className="result-filter-button"><strong>Filter</strong></button>
+//                 </div>
+//             </div>
+
+//             {/* The list of result */}
+//             <div className="result-content-background">
+//                 {/* Table titles */}
+//                 <div className="result-card-title row">
+//                     <p className="table-heading" id="first-table-heading">NAME</p>
+//                     <p className="table-heading">TOTAL GIFT</p>
+//                     <p className="table-heading">ADS VIEWED</p>
+//                     <p className="table-heading"># OF ACTIONS</p>
+//                     <p className="table-heading">LAST ACTIVE</p>
+//                 </div>
+
+//                 {/* List items */}
+//                 <div className="result-card-content">
+//                     {resultContent}
+//                 </div>
+//             </div>
+//         </div>
+//     }
+
+//     return (
+//         <div>
+//             {content}
+//         </div>
+//     )
+// }
+
+// export default Result;

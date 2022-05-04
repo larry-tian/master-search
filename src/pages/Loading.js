@@ -13,10 +13,6 @@ const Loading = () => {
         navigate('/')
     }
 
-    const directResult = () => {
-        navigate('/result')
-    }
-
     useLayoutEffect(() => {
         window.scrollTo(0, 0)
     });
@@ -31,12 +27,9 @@ const Loading = () => {
 
             {/* Text */}
             <div className="loading-text-content">
-                <h1 className="heading-one"><strong>Searching for result...</strong></h1>
-                <p className="heading-small-title" id="loading-small-title"><strong>ROME WASN'T BUILT IN A DAY</strong></p>
+                <h1 className="heading-one"><strong>Loading...</strong></h1>
+                <p className="heading-small-title" id="loading-small-title"><strong>THIS MIGHT TAKE A FEW SECONDS. ROME WASN'T BUILT IN A DAY!</strong></p>
                 <button className="cancel-button" onClick={cancelRedirect}><strong>Cancel</strong></button>
-
-                <button className="cancel-button" onClick={directResult}><strong>Result</strong></button>
-
             </div>
         </div>
     )
